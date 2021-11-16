@@ -1,0 +1,4377 @@
+[
+ {
+   "mls_name": "ACTRIS/ABOR",
+   "mls_id": "a0M1500000UR3OW",
+   "fips": 48021
+ },
+ {
+   "mls_name": "ACTRIS/ABOR",
+   "mls_id": "a0M1500000UR3OW",
+   "fips": 48031
+ },
+ {
+   "mls_name": "ACTRIS/ABOR",
+   "mls_id": "a0M1500000UR3OW",
+   "fips": 48053
+ },
+ {
+   "mls_name": "ACTRIS/ABOR",
+   "mls_id": "a0M1500000UR3OW",
+   "fips": 48453
+ },
+ {
+   "mls_name": "AKMLS",
+   "mls_id": "a0M1500000UR3OX",
+   "fips": 2122
+ },
+ {
+   "mls_name": "AKMLS",
+   "mls_id": "a0M1500000UR3OX",
+   "fips": 2170
+ },
+ {
+   "mls_name": "AlaMLS",
+   "mls_id": "a0M1500000URAeb",
+   "fips": 1001
+ },
+ {
+   "mls_name": "AlaMLS",
+   "mls_id": "a0M1500000URAeb",
+   "fips": 1007
+ },
+ {
+   "mls_name": "AlaMLS",
+   "mls_id": "a0M1500000URAeb",
+   "fips": 1011
+ },
+ {
+   "mls_name": "AlaMLS",
+   "mls_id": "a0M1500000URAeb",
+   "fips": 1013
+ },
+ {
+   "mls_name": "AlaMLS",
+   "mls_id": "a0M1500000URAeb",
+   "fips": 1021
+ },
+ {
+   "mls_name": "AlaMLS",
+   "mls_id": "a0M1500000URAeb",
+   "fips": 1037
+ },
+ {
+   "mls_name": "AlaMLS",
+   "mls_id": "a0M1500000URAeb",
+   "fips": 1047
+ },
+ {
+   "mls_name": "AlaMLS",
+   "mls_id": "a0M1500000URAeb",
+   "fips": 1051
+ },
+ {
+   "mls_name": "AlaMLS",
+   "mls_id": "a0M1500000URAeb",
+   "fips": 1065
+ },
+ {
+   "mls_name": "AlaMLS",
+   "mls_id": "a0M1500000URAeb",
+   "fips": 1081
+ },
+ {
+   "mls_name": "AlaMLS",
+   "mls_id": "a0M1500000URAeb",
+   "fips": 1085
+ },
+ {
+   "mls_name": "AlaMLS",
+   "mls_id": "a0M1500000URAeb",
+   "fips": 1087
+ },
+ {
+   "mls_name": "AlaMLS",
+   "mls_id": "a0M1500000URAeb",
+   "fips": 1101
+ },
+ {
+   "mls_name": "AlaMLS",
+   "mls_id": "a0M1500000URAeb",
+   "fips": 1105
+ },
+ {
+   "mls_name": "AlaMLS",
+   "mls_id": "a0M1500000URAeb",
+   "fips": 1109
+ },
+ {
+   "mls_name": "ARMLS",
+   "mls_id": "a0M1500000UR3Ob",
+   "fips": 4013
+ },
+ {
+   "mls_name": "ARMLS",
+   "mls_id": "a0M1500000UR3Ob",
+   "fips": 4021
+ },
+ {
+   "mls_name": "BAREIS",
+   "mls_id": "a0M1500000UR3Oe",
+   "fips": 6041
+ },
+ {
+   "mls_name": "BAREIS",
+   "mls_id": "a0M1500000UR3Oe",
+   "fips": 6045
+ },
+ {
+   "mls_name": "BAREIS",
+   "mls_id": "a0M1500000UR3Oe",
+   "fips": 6055
+ },
+ {
+   "mls_name": "BAREIS",
+   "mls_id": "a0M1500000UR3Oe",
+   "fips": 6095
+ },
+ {
+   "mls_name": "BAREIS",
+   "mls_id": "a0M1500000UR3Oe",
+   "fips": 6097
+ },
+ {
+   "mls_name": "BeachesMLS",
+   "mls_id": "a0M1500000UR3Oh",
+   "fips": 12021
+ },
+ {
+   "mls_name": "Bright MLS",
+   "mls_id": "a0M1500000UdTEt",
+   "fips": 10001
+ },
+ {
+   "mls_name": "Bright MLS",
+   "mls_id": "a0M1500000UdTEt",
+   "fips": 10003
+ },
+ {
+   "mls_name": "Bright MLS",
+   "mls_id": "a0M1500000UdTEt",
+   "fips": 10005
+ },
+ {
+   "mls_name": "Bright MLS",
+   "mls_id": "a0M1500000UdTEt",
+   "fips": 24001
+ },
+ {
+   "mls_name": "Bright MLS",
+   "mls_id": "a0M1500000UdTEt",
+   "fips": 24003
+ },
+ {
+   "mls_name": "Bright MLS",
+   "mls_id": "a0M1500000UdTEt",
+   "fips": 24005
+ },
+ {
+   "mls_name": "Bright MLS",
+   "mls_id": "a0M1500000UdTEt",
+   "fips": 24009
+ },
+ {
+   "mls_name": "Bright MLS",
+   "mls_id": "a0M1500000UdTEt",
+   "fips": 24011
+ },
+ {
+   "mls_name": "Bright MLS",
+   "mls_id": "a0M1500000UdTEt",
+   "fips": 24013
+ },
+ {
+   "mls_name": "Bright MLS",
+   "mls_id": "a0M1500000UdTEt",
+   "fips": 24015
+ },
+ {
+   "mls_name": "Bright MLS",
+   "mls_id": "a0M1500000UdTEt",
+   "fips": 24017
+ },
+ {
+   "mls_name": "Bright MLS",
+   "mls_id": "a0M1500000UdTEt",
+   "fips": 24019
+ },
+ {
+   "mls_name": "Bright MLS",
+   "mls_id": "a0M1500000UdTEt",
+   "fips": 24021
+ },
+ {
+   "mls_name": "Bright MLS",
+   "mls_id": "a0M1500000UdTEt",
+   "fips": 24023
+ },
+ {
+   "mls_name": "Bright MLS",
+   "mls_id": "a0M1500000UdTEt",
+   "fips": 24025
+ },
+ {
+   "mls_name": "Bright MLS",
+   "mls_id": "a0M1500000UdTEt",
+   "fips": 24045
+ },
+ {
+   "mls_name": "Bright MLS",
+   "mls_id": "a0M1500000UdTEt",
+   "fips": 34005
+ },
+ {
+   "mls_name": "Bright MLS",
+   "mls_id": "a0M1500000UdTEt",
+   "fips": 34011
+ },
+ {
+   "mls_name": "Bright MLS",
+   "mls_id": "a0M1500000UdTEt",
+   "fips": 34007
+ },
+ {
+   "mls_name": "Bright MLS",
+   "mls_id": "a0M1500000UdTEt",
+   "fips": 24047
+ },
+ {
+   "mls_name": "Bright MLS",
+   "mls_id": "a0M1500000UdTEt",
+   "fips": 24043
+ },
+ {
+   "mls_name": "Bright MLS",
+   "mls_id": "a0M1500000UdTEt",
+   "fips": 34015
+ },
+ {
+   "mls_name": "Bright MLS",
+   "mls_id": "a0M1500000UdTEt",
+   "fips": 24027
+ },
+ {
+   "mls_name": "Bright MLS",
+   "mls_id": "a0M1500000UdTEt",
+   "fips": 24029
+ },
+ {
+   "mls_name": "Bright MLS",
+   "mls_id": "a0M1500000UdTEt",
+   "fips": 34019
+ },
+ {
+   "mls_name": "Bright MLS",
+   "mls_id": "a0M1500000UdTEt",
+   "fips": 34021
+ },
+ {
+   "mls_name": "Bright MLS",
+   "mls_id": "a0M1500000UdTEt",
+   "fips": 24041
+ },
+ {
+   "mls_name": "Bright MLS",
+   "mls_id": "a0M1500000UdTEt",
+   "fips": 34029
+ },
+ {
+   "mls_name": "Bright MLS",
+   "mls_id": "a0M1500000UdTEt",
+   "fips": 24031
+ },
+ {
+   "mls_name": "Bright MLS",
+   "mls_id": "a0M1500000UdTEt",
+   "fips": 42017
+ },
+ {
+   "mls_name": "Bright MLS",
+   "mls_id": "a0M1500000UdTEt",
+   "fips": 42011
+ },
+ {
+   "mls_name": "Bright MLS",
+   "mls_id": "a0M1500000UdTEt",
+   "fips": 51069
+ },
+ {
+   "mls_name": "Bright MLS",
+   "mls_id": "a0M1500000UdTEt",
+   "fips": 42101
+ },
+ {
+   "mls_name": "Bright MLS",
+   "mls_id": "a0M1500000UdTEt",
+   "fips": 51061
+ },
+ {
+   "mls_name": "Bright MLS",
+   "mls_id": "a0M1500000UdTEt",
+   "fips": 51059
+ },
+ {
+   "mls_name": "Bright MLS",
+   "mls_id": "a0M1500000UdTEt",
+   "fips": 51047
+ },
+ {
+   "mls_name": "Bright MLS",
+   "mls_id": "a0M1500000UdTEt",
+   "fips": 51113
+ },
+ {
+   "mls_name": "Bright MLS",
+   "mls_id": "a0M1500000UdTEt",
+   "fips": 51043
+ },
+ {
+   "mls_name": "Bright MLS",
+   "mls_id": "a0M1500000UdTEt",
+   "fips": 51107
+ },
+ {
+   "mls_name": "Bright MLS",
+   "mls_id": "a0M1500000UdTEt",
+   "fips": 51099
+ },
+ {
+   "mls_name": "Bright MLS",
+   "mls_id": "a0M1500000UdTEt",
+   "fips": 51033
+ },
+ {
+   "mls_name": "Bright MLS",
+   "mls_id": "a0M1500000UdTEt",
+   "fips": 51013
+ },
+ {
+   "mls_name": "Bright MLS",
+   "mls_id": "a0M1500000UdTEt",
+   "fips": 51139
+ },
+ {
+   "mls_name": "Bright MLS",
+   "mls_id": "a0M1500000UdTEt",
+   "fips": 42133
+ },
+ {
+   "mls_name": "Bright MLS",
+   "mls_id": "a0M1500000UdTEt",
+   "fips": 42107
+ },
+ {
+   "mls_name": "Bright MLS",
+   "mls_id": "a0M1500000UdTEt",
+   "fips": 42099
+ },
+ {
+   "mls_name": "Bright MLS",
+   "mls_id": "a0M1500000UdTEt",
+   "fips": 51153
+ },
+ {
+   "mls_name": "Bright MLS",
+   "mls_id": "a0M1500000UdTEt",
+   "fips": 42091
+ },
+ {
+   "mls_name": "Bright MLS",
+   "mls_id": "a0M1500000UdTEt",
+   "fips": 51157
+ },
+ {
+   "mls_name": "Bright MLS",
+   "mls_id": "a0M1500000UdTEt",
+   "fips": 54071
+ },
+ {
+   "mls_name": "Bright MLS",
+   "mls_id": "a0M1500000UdTEt",
+   "fips": 54065
+ },
+ {
+   "mls_name": "Bright MLS",
+   "mls_id": "a0M1500000UdTEt",
+   "fips": 54057
+ },
+ {
+   "mls_name": "Bright MLS",
+   "mls_id": "a0M1500000UdTEt",
+   "fips": 54037
+ },
+ {
+   "mls_name": "Bright MLS",
+   "mls_id": "a0M1500000UdTEt",
+   "fips": 54031
+ },
+ {
+   "mls_name": "Bright MLS",
+   "mls_id": "a0M1500000UdTEt",
+   "fips": 54027
+ },
+ {
+   "mls_name": "Bright MLS",
+   "mls_id": "a0M1500000UdTEt",
+   "fips": 54023
+ },
+ {
+   "mls_name": "Bright MLS",
+   "mls_id": "a0M1500000UdTEt",
+   "fips": 54003
+ },
+ {
+   "mls_name": "Bright MLS",
+   "mls_id": "a0M1500000UdTEt",
+   "fips": 51187
+ },
+ {
+   "mls_name": "Bright MLS",
+   "mls_id": "a0M1500000UdTEt",
+   "fips": 51179
+ },
+ {
+   "mls_name": "Bright MLS",
+   "mls_id": "a0M1500000UdTEt",
+   "fips": 51171
+ },
+ {
+   "mls_name": "Bright MLS",
+   "mls_id": "a0M1500000UdTEt",
+   "fips": 42057
+ },
+ {
+   "mls_name": "Bright MLS",
+   "mls_id": "a0M1500000UdTEt",
+   "fips": 51137
+ },
+ {
+   "mls_name": "Bright MLS",
+   "mls_id": "a0M1500000UdTEt",
+   "fips": 51177
+ },
+ {
+   "mls_name": "Bright MLS",
+   "mls_id": "a0M1500000UdTEt",
+   "fips": 42075
+ },
+ {
+   "mls_name": "Bright MLS",
+   "mls_id": "a0M1500000UdTEt",
+   "fips": 42071
+ },
+ {
+   "mls_name": "Bright MLS",
+   "mls_id": "a0M1500000UdTEt",
+   "fips": 42055
+ },
+ {
+   "mls_name": "Bright MLS",
+   "mls_id": "a0M1500000UdTEt",
+   "fips": 42045
+ },
+ {
+   "mls_name": "Bright MLS",
+   "mls_id": "a0M1500000UdTEt",
+   "fips": 42043
+ },
+ {
+   "mls_name": "Bright MLS",
+   "mls_id": "a0M1500000UdTEt",
+   "fips": 42041
+ },
+ {
+   "mls_name": "Bright MLS",
+   "mls_id": "a0M1500000UdTEt",
+   "fips": 42001
+ },
+ {
+   "mls_name": "Bright MLS",
+   "mls_id": "a0M1500000UdTEt",
+   "fips": 34033
+ },
+ {
+   "mls_name": "Bright MLS",
+   "mls_id": "a0M1500000UdTEt",
+   "fips": 42029
+ },
+ {
+   "mls_name": "Bright MLS",
+   "mls_id": "a0M1500000UdTEt",
+   "fips": 34035
+ },
+ {
+   "mls_name": "Bright MLS",
+   "mls_id": "a0M1500000UdTEt",
+   "fips": 24039
+ },
+ {
+   "mls_name": "CATRS",
+   "mls_id": "a0M1500000UR3Os",
+   "fips": 12039
+ },
+ {
+   "mls_name": "CATRS",
+   "mls_id": "a0M1500000UR3Os",
+   "fips": 12063
+ },
+ {
+   "mls_name": "CATRS",
+   "mls_id": "a0M1500000UR3Os",
+   "fips": 12073
+ },
+ {
+   "mls_name": "CATRS",
+   "mls_id": "a0M1500000UR3Os",
+   "fips": 12123
+ },
+ {
+   "mls_name": "CATRS",
+   "mls_id": "a0M1500000UR3Os",
+   "fips": 12129
+ },
+ {
+   "mls_name": "CCAR",
+   "mls_id": "a0M1500000UR3OW",
+   "fips": 6001
+ },
+ {
+   "mls_name": "CCAR",
+   "mls_id": "a0M1500000UR3OW",
+   "fips": 6013
+ },
+ {
+   "mls_name": "CincyMLS",
+   "mls_id": "a0M1500000UR3P3",
+   "fips": 39001
+ },
+ {
+   "mls_name": "CincyMLS",
+   "mls_id": "a0M1500000UR3P4",
+   "fips": 39015
+ },
+ {
+   "mls_name": "CincyMLS",
+   "mls_id": "a0M1500000UR3P5",
+   "fips": 39017
+ },
+ {
+   "mls_name": "CincyMLS",
+   "mls_id": "a0M1500000UR3P6",
+   "fips": 39025
+ },
+ {
+   "mls_name": "CincyMLS",
+   "mls_id": "a0M1500000UR3P7",
+   "fips": 39027
+ },
+ {
+   "mls_name": "CincyMLS",
+   "mls_id": "a0M1500000UR3P8",
+   "fips": 39061
+ },
+ {
+   "mls_name": "CincyMLS",
+   "mls_id": "a0M1500000UR3P9",
+   "fips": 39071
+ },
+ {
+   "mls_name": "CincyMLS",
+   "mls_id": "a0M1500000UR3P10",
+   "fips": 39165
+ },
+ {
+   "mls_name": "CMMLS",
+   "mls_id": "a0M1C00000h1Nax",
+   "fips": 28007
+ },
+ {
+   "mls_name": "CMMLS",
+   "mls_id": "a0M1C00000h1Nax",
+   "fips": 28029
+ },
+ {
+   "mls_name": "CMMLS",
+   "mls_id": "a0M1C00000h1Nax",
+   "fips": 28049
+ },
+ {
+   "mls_name": "CMMLS",
+   "mls_id": "a0M1C00000h1Nax",
+   "fips": 28051
+ },
+ {
+   "mls_name": "CMMLS",
+   "mls_id": "a0M1C00000h1Nax",
+   "fips": 28079
+ },
+ {
+   "mls_name": "CMMLS",
+   "mls_id": "a0M1C00000h1Nax",
+   "fips": 28089
+ },
+ {
+   "mls_name": "CMMLS",
+   "mls_id": "a0M1C00000h1Nax",
+   "fips": 28121
+ },
+ {
+   "mls_name": "CMMLS",
+   "mls_id": "a0M1C00000h1Nax",
+   "fips": 28123
+ },
+ {
+   "mls_name": "CMMLS",
+   "mls_id": "a0M1C00000h1Nax",
+   "fips": 28127
+ },
+ {
+   "mls_name": "CMMLS",
+   "mls_id": "a0M1C00000h1Nax",
+   "fips": 28163
+ },
+ {
+   "mls_name": "Columbus Realtors",
+   "mls_id": "a0M1500000UR3Ov",
+   "fips": 39041
+ },
+ {
+   "mls_name": "Columbus Realtors",
+   "mls_id": "a0M1500000UR3Ov",
+   "fips": 39047
+ },
+ {
+   "mls_name": "Columbus Realtors",
+   "mls_id": "a0M1500000UR3Ov",
+   "fips": 39049
+ },
+ {
+   "mls_name": "Columbus Realtors",
+   "mls_id": "a0M1500000UR3Ov",
+   "fips": 39089
+ },
+ {
+   "mls_name": "Columbus Realtors",
+   "mls_id": "a0M1500000UR3Ov",
+   "fips": 39097
+ },
+ {
+   "mls_name": "Columbus Realtors",
+   "mls_id": "a0M1500000UR3Ov",
+   "fips": 39117
+ },
+ {
+   "mls_name": "Columbus Realtors",
+   "mls_id": "a0M1500000UR3Ov",
+   "fips": 39129
+ },
+ {
+   "mls_name": "Columbus Realtors",
+   "mls_id": "a0M1500000UR3Ov",
+   "fips": 39159
+ },
+ {
+   "mls_name": "CREN MLS",
+   "mls_id": "a0M1500000UR3PB",
+   "fips": 8007
+ },
+ {
+   "mls_name": "CREN MLS",
+   "mls_id": "a0M1500000UR3PB",
+   "fips": 8029
+ },
+ {
+   "mls_name": "CREN MLS",
+   "mls_id": "a0M1500000UR3PB",
+   "fips": 8033
+ },
+ {
+   "mls_name": "CREN MLS",
+   "mls_id": "a0M1500000UR3PB",
+   "fips": 8051
+ },
+ {
+   "mls_name": "CREN MLS",
+   "mls_id": "a0M1500000UR3PB",
+   "fips": 8053
+ },
+ {
+   "mls_name": "CREN MLS",
+   "mls_id": "a0M1500000UR3PB",
+   "fips": 8067
+ },
+ {
+   "mls_name": "CREN MLS",
+   "mls_id": "a0M1500000UR3PB",
+   "fips": 8083
+ },
+ {
+   "mls_name": "CREN MLS",
+   "mls_id": "a0M1500000UR3PB",
+   "fips": 8085
+ },
+ {
+   "mls_name": "CREN MLS",
+   "mls_id": "a0M1500000UR3PB",
+   "fips": 8091
+ },
+ {
+   "mls_name": "CREN MLS",
+   "mls_id": "a0M1500000UR3PB",
+   "fips": 8111
+ },
+ {
+   "mls_name": "CREN MLS",
+   "mls_id": "a0M1500000UR3PB",
+   "fips": 8113
+ },
+ {
+   "mls_name": "CRMLS",
+   "mls_id": "a0M1500000UR38u",
+   "fips": 6007
+ },
+ {
+   "mls_name": "CRMLS",
+   "mls_id": "a0M1500000UR38u",
+   "fips": 6011
+ },
+ {
+   "mls_name": "CRMLS",
+   "mls_id": "a0M1500000UR38u",
+   "fips": 6021
+ },
+ {
+   "mls_name": "CRMLS",
+   "mls_id": "a0M1500000UR38u",
+   "fips": 6033
+ },
+ {
+   "mls_name": "CRMLS",
+   "mls_id": "a0M1500000UR38u",
+   "fips": 6037
+ },
+ {
+   "mls_name": "CRMLS",
+   "mls_id": "a0M1500000UR38u",
+   "fips": 6047
+ },
+ {
+   "mls_name": "CRMLS",
+   "mls_id": "a0M1500000UR38u",
+   "fips": 6059
+ },
+ {
+   "mls_name": "CRMLS",
+   "mls_id": "a0M1500000UR38u",
+   "fips": 6065
+ },
+ {
+   "mls_name": "CRMLS",
+   "mls_id": "a0M1500000UR38u",
+   "fips": 6071
+ },
+ {
+   "mls_name": "CRMLS",
+   "mls_id": "a0M1500000UR38u",
+   "fips": 6079
+ },
+ {
+   "mls_name": "CTXMLS",
+   "mls_id": "a0M1C00000g2Jx6",
+   "fips": 48007
+ },
+ {
+   "mls_name": "CTXMLS",
+   "mls_id": "a0M1C00000g2Jx7",
+   "fips": 48027
+ },
+ {
+   "mls_name": "CTXMLS",
+   "mls_id": "a0M1C00000g2Jx8",
+   "fips": 48055
+ },
+ {
+   "mls_name": "CTXMLS",
+   "mls_id": "a0M1C00000g2Jx9",
+   "fips": 48091
+ },
+ {
+   "mls_name": "CTXMLS",
+   "mls_id": "a0M1C00000g2Jx10",
+   "fips": 48099
+ },
+ {
+   "mls_name": "CTXMLS",
+   "mls_id": "a0M1C00000g2Jx11",
+   "fips": 48175
+ },
+ {
+   "mls_name": "CTXMLS",
+   "mls_id": "a0M1C00000g2Jx12",
+   "fips": 48177
+ },
+ {
+   "mls_name": "CTXMLS",
+   "mls_id": "a0M1C00000g2Jx13",
+   "fips": 48187
+ },
+ {
+   "mls_name": "CTXMLS",
+   "mls_id": "a0M1C00000g2Jx14",
+   "fips": 48209
+ },
+ {
+   "mls_name": "CTXMLS",
+   "mls_id": "a0M1C00000g2Jx15",
+   "fips": 48281
+ },
+ {
+   "mls_name": "CTXMLS",
+   "mls_id": "a0M1C00000g2Jx16",
+   "fips": 48285
+ },
+ {
+   "mls_name": "CTXMLS",
+   "mls_id": "a0M1C00000g2Jx17",
+   "fips": 48391
+ },
+ {
+   "mls_name": "CTXMLS",
+   "mls_id": "a0M1C00000g2Jx18",
+   "fips": 48469
+ },
+ {
+   "mls_name": "CTXMLS",
+   "mls_id": "a0M1C00000g2Jx19",
+   "fips": 48491
+ },
+ {
+   "mls_name": "CVRMLS",
+   "mls_id": "a0M1500000UR3PG",
+   "fips": 51036
+ },
+ {
+   "mls_name": "CVRMLS",
+   "mls_id": "a0M1500000UR3PG",
+   "fips": 51041
+ },
+ {
+   "mls_name": "CVRMLS",
+   "mls_id": "a0M1500000UR3PG",
+   "fips": 51053
+ },
+ {
+   "mls_name": "CVRMLS",
+   "mls_id": "a0M1500000UR3PG",
+   "fips": 51075
+ },
+ {
+   "mls_name": "CVRMLS",
+   "mls_id": "a0M1500000UR3PG",
+   "fips": 51081
+ },
+ {
+   "mls_name": "CVRMLS",
+   "mls_id": "a0M1500000UR3PG",
+   "fips": 51085
+ },
+ {
+   "mls_name": "CVRMLS",
+   "mls_id": "a0M1500000UR3PG",
+   "fips": 51087
+ },
+ {
+   "mls_name": "CVRMLS",
+   "mls_id": "a0M1500000UR3PG",
+   "fips": 51101
+ },
+ {
+   "mls_name": "CVRMLS",
+   "mls_id": "a0M1500000UR3PG",
+   "fips": 51127
+ },
+ {
+   "mls_name": "CVRMLS",
+   "mls_id": "a0M1500000UR3PG",
+   "fips": 51145
+ },
+ {
+   "mls_name": "CVRMLS",
+   "mls_id": "a0M1500000UR3PG",
+   "fips": 51149
+ },
+ {
+   "mls_name": "CVRMLS",
+   "mls_id": "a0M1500000UR3PG",
+   "fips": 51181
+ },
+ {
+   "mls_name": "CVRMLS",
+   "mls_id": "a0M1500000UR3PG",
+   "fips": 51183
+ },
+ {
+   "mls_name": "CVRMLS",
+   "mls_id": "a0M1500000UR3PG",
+   "fips": 51159
+ },
+ {
+   "mls_name": "FMLS",
+   "mls_id": "a0M1500000UR3Pb",
+   "fips": 13013
+ },
+ {
+   "mls_name": "FMLS",
+   "mls_id": "a0M1500000UR3Pb",
+   "fips": 13015
+ },
+ {
+   "mls_name": "FMLS",
+   "mls_id": "a0M1500000UR3Pb",
+   "fips": 13055
+ },
+ {
+   "mls_name": "FMLS",
+   "mls_id": "a0M1500000UR3Pb",
+   "fips": 13057
+ },
+ {
+   "mls_name": "FMLS",
+   "mls_id": "a0M1500000UR3Pb",
+   "fips": 13067
+ },
+ {
+   "mls_name": "FMLS",
+   "mls_id": "a0M1500000UR3Pb",
+   "fips": 13085
+ },
+ {
+   "mls_name": "FMLS",
+   "mls_id": "a0M1500000UR3Pb",
+   "fips": 13097
+ },
+ {
+   "mls_name": "FMLS",
+   "mls_id": "a0M1500000UR3Pb",
+   "fips": 13115
+ },
+ {
+   "mls_name": "FMLS",
+   "mls_id": "a0M1500000UR3Pb",
+   "fips": 13117
+ },
+ {
+   "mls_name": "FMLS",
+   "mls_id": "a0M1500000UR3Pb",
+   "fips": 13121
+ },
+ {
+   "mls_name": "FMLS",
+   "mls_id": "a0M1500000UR3Pb",
+   "fips": 13129
+ },
+ {
+   "mls_name": "FMLS",
+   "mls_id": "a0M1500000UR3Pb",
+   "fips": 13135
+ },
+ {
+   "mls_name": "FMLS",
+   "mls_id": "a0M1500000UR3Pb",
+   "fips": 13139
+ },
+ {
+   "mls_name": "FMLS",
+   "mls_id": "a0M1500000UR3Pb",
+   "fips": 13143
+ },
+ {
+   "mls_name": "FMLS",
+   "mls_id": "a0M1500000UR3Pb",
+   "fips": 13157
+ },
+ {
+   "mls_name": "FMLS",
+   "mls_id": "a0M1500000UR3Pb",
+   "fips": 13297
+ },
+ {
+   "mls_name": "FMLS",
+   "mls_id": "a0M1500000UR3Pb",
+   "fips": 13247
+ },
+ {
+   "mls_name": "FMLS",
+   "mls_id": "a0M1500000UR3Pb",
+   "fips": 13187
+ },
+ {
+   "mls_name": "FMLS",
+   "mls_id": "a0M1500000UR3Pb",
+   "fips": 13217
+ },
+ {
+   "mls_name": "FMLS",
+   "mls_id": "a0M1500000UR3Pb",
+   "fips": 13233
+ },
+ {
+   "mls_name": "FMLS",
+   "mls_id": "a0M1500000UR3Pb",
+   "fips": 13223
+ },
+ {
+   "mls_name": "FMLS",
+   "mls_id": "a0M1500000UR3Pb",
+   "fips": 13227
+ },
+ {
+   "mls_name": "GAAR (SWMLS)",
+   "mls_id": "a0M1500000UR3Pf",
+   "fips": 35001
+ },
+ {
+   "mls_name": "GAAR (SWMLS)",
+   "mls_id": "a0M1500000UR3Pf",
+   "fips": 35043
+ },
+ {
+   "mls_name": "GAAR (SWMLS)",
+   "mls_id": "a0M1500000UR3Pf",
+   "fips": 35049
+ },
+ {
+   "mls_name": "GAAR (SWMLS)",
+   "mls_id": "a0M1500000UR3Pf",
+   "fips": 35053
+ },
+ {
+   "mls_name": "GAAR (SWMLS)",
+   "mls_id": "a0M1500000UR3Pf",
+   "fips": 35057
+ },
+ {
+   "mls_name": "GAAR (SWMLS)",
+   "mls_id": "a0M1500000UR3Pf",
+   "fips": 35061
+ },
+ {
+   "mls_name": "GALMLS",
+   "mls_id": "a0M1500000dlzgg",
+   "fips": 1009
+ },
+ {
+   "mls_name": "GALMLS",
+   "mls_id": "a0M1500000dlzgg",
+   "fips": 1015
+ },
+ {
+   "mls_name": "GALMLS",
+   "mls_id": "a0M1500000dlzgg",
+   "fips": 1073
+ },
+ {
+   "mls_name": "GALMLS",
+   "mls_id": "a0M1500000dlzgg",
+   "fips": 1117
+ },
+ {
+   "mls_name": "GALMLS",
+   "mls_id": "a0M1500000dlzgg",
+   "fips": 1121
+ },
+ {
+   "mls_name": "GAMLS",
+   "mls_id": "a0M1500000UR3Ph",
+   "fips": 13035
+ },
+ {
+   "mls_name": "GAMLS",
+   "mls_id": "a0M1500000UR3Ph",
+   "fips": 13045
+ },
+ {
+   "mls_name": "GAMLS",
+   "mls_id": "a0M1500000UR3Ph",
+   "fips": 13063
+ },
+ {
+   "mls_name": "GAMLS",
+   "mls_id": "a0M1500000UR3Ph",
+   "fips": 13077
+ },
+ {
+   "mls_name": "GAMLS",
+   "mls_id": "a0M1500000UR3Ph",
+   "fips": 13113
+ },
+ {
+   "mls_name": "GAMLS",
+   "mls_id": "a0M1500000UR3Ph",
+   "fips": 13149
+ },
+ {
+   "mls_name": "GAMLS",
+   "mls_id": "a0M1500000UR3Ph",
+   "fips": 13151
+ },
+ {
+   "mls_name": "GAMLS",
+   "mls_id": "a0M1500000UR3Ph",
+   "fips": 13159
+ },
+ {
+   "mls_name": "GAMLS",
+   "mls_id": "a0M1500000UR3Ph",
+   "fips": 13171
+ },
+ {
+   "mls_name": "GAMLS",
+   "mls_id": "a0M1500000UR3Ph",
+   "fips": 13199
+ },
+ {
+   "mls_name": "GAMLS",
+   "mls_id": "a0M1500000UR3Ph",
+   "fips": 13207
+ },
+ {
+   "mls_name": "GAMLS",
+   "mls_id": "a0M1500000UR3Ph",
+   "fips": 13211
+ },
+ {
+   "mls_name": "GAMLS",
+   "mls_id": "a0M1500000UR3Ph",
+   "fips": 13231
+ },
+ {
+   "mls_name": "GAMLS",
+   "mls_id": "a0M1500000UR3Ph",
+   "fips": 13255
+ },
+ {
+   "mls_name": "GBRMLS",
+   "mls_id": "a0M1500000dlzef",
+   "fips": 22005
+ },
+ {
+   "mls_name": "GBRMLS",
+   "mls_id": "a0M1500000dlzef",
+   "fips": 22033
+ },
+ {
+   "mls_name": "GBRMLS",
+   "mls_id": "a0M1500000dlzef",
+   "fips": 22037
+ },
+ {
+   "mls_name": "GBRMLS",
+   "mls_id": "a0M1500000dlzef",
+   "fips": 22047
+ },
+ {
+   "mls_name": "GBRMLS",
+   "mls_id": "a0M1500000dlzef",
+   "fips": 22063
+ },
+ {
+   "mls_name": "GBRMLS",
+   "mls_id": "a0M1500000dlzef",
+   "fips": 22077
+ },
+ {
+   "mls_name": "GBRMLS",
+   "mls_id": "a0M1500000dlzef",
+   "fips": 22121
+ },
+ {
+   "mls_name": "GBRMLS",
+   "mls_id": "a0M1500000dlzef",
+   "fips": 22125
+ },
+ {
+   "mls_name": "GCAR MLS",
+   "mls_id": "a0M1500000UR3P1",
+   "fips": 47065
+ },
+ {
+   "mls_name": "GCAR MLS",
+   "mls_id": "a0M1500000UR3P2",
+   "fips": 47153
+ },
+ {
+   "mls_name": "GLVAR",
+   "mls_id": "a0M1500000UR3Pw",
+   "fips": 32003
+ },
+ {
+   "mls_name": "GLVAR",
+   "mls_id": "a0M1500000UR3Pw",
+   "fips": 32023
+ },
+ {
+   "mls_name": "GSMLS",
+   "mls_id": "a0M1500000UR3Pi",
+   "fips": 34003
+ },
+ {
+   "mls_name": "GSMLS",
+   "mls_id": "a0M1500000UR3Pi",
+   "fips": 34013
+ },
+ {
+   "mls_name": "GSMLS",
+   "mls_id": "a0M1500000UR3Pi",
+   "fips": 34017
+ },
+ {
+   "mls_name": "GSMLS",
+   "mls_id": "a0M1500000UR3Pi",
+   "fips": 34023
+ },
+ {
+   "mls_name": "GSMLS",
+   "mls_id": "a0M1500000UR3Pi",
+   "fips": 34027
+ },
+ {
+   "mls_name": "GSMLS",
+   "mls_id": "a0M1500000UR3Pi",
+   "fips": 34031
+ },
+ {
+   "mls_name": "GSMLS",
+   "mls_id": "a0M1500000UR3Pi",
+   "fips": 34037
+ },
+ {
+   "mls_name": "GSMLS",
+   "mls_id": "a0M1500000UR3Pi",
+   "fips": 34039
+ },
+ {
+   "mls_name": "GSMLS",
+   "mls_id": "a0M1500000UR3Pi",
+   "fips": 34041
+ },
+ {
+   "mls_name": "GSREIN MLS",
+   "mls_id": "a0M1500000UR3Q6",
+   "fips": 22051
+ },
+ {
+   "mls_name": "GSREIN MLS",
+   "mls_id": "a0M1500000UR3Q7",
+   "fips": 22071
+ },
+ {
+   "mls_name": "GSREIN MLS",
+   "mls_id": "a0M1500000UR3Q8",
+   "fips": 22075
+ },
+ {
+   "mls_name": "GSREIN MLS",
+   "mls_id": "a0M1500000UR3Q9",
+   "fips": 22105
+ },
+ {
+   "mls_name": "GSREIN MLS",
+   "mls_id": "a0M1500000UR3Q10",
+   "fips": 22117
+ },
+ {
+   "mls_name": "HAR-MLS",
+   "mls_id": "a0M1500000UR3Q8",
+   "fips": 48015
+ },
+ {
+   "mls_name": "HAR-MLS",
+   "mls_id": "a0M1500000UR3Q9",
+   "fips": 48039
+ },
+ {
+   "mls_name": "HAR-MLS",
+   "mls_id": "a0M1500000UR3Q10",
+   "fips": 48071
+ },
+ {
+   "mls_name": "HAR-MLS",
+   "mls_id": "a0M1500000UR3Q11",
+   "fips": 48157
+ },
+ {
+   "mls_name": "HAR-MLS",
+   "mls_id": "a0M1500000UR3Q12",
+   "fips": 48167
+ },
+ {
+   "mls_name": "HAR-MLS",
+   "mls_id": "a0M1500000UR3Q13",
+   "fips": 48201
+ },
+ {
+   "mls_name": "HAR-MLS",
+   "mls_id": "a0M1500000UR3Q14",
+   "fips": 48291
+ },
+ {
+   "mls_name": "HAR-MLS",
+   "mls_id": "a0M1500000UR3Q15",
+   "fips": 48339
+ },
+ {
+   "mls_name": "HAR-MLS",
+   "mls_id": "a0M1500000UR3Q16",
+   "fips": 48471
+ },
+ {
+   "mls_name": "HAR-MLS",
+   "mls_id": "a0M1500000UR3Q17",
+   "fips": 48473
+ },
+ {
+   "mls_name": "Heartland",
+   "mls_id": "a0M1500000UR3QB",
+   "fips": 20005
+ },
+ {
+   "mls_name": "Heartland",
+   "mls_id": "a0M1500000UR3QB",
+   "fips": 20059
+ },
+ {
+   "mls_name": "Heartland",
+   "mls_id": "a0M1500000UR3QB",
+   "fips": 20091
+ },
+ {
+   "mls_name": "Heartland",
+   "mls_id": "a0M1500000UR3QB",
+   "fips": 20103
+ },
+ {
+   "mls_name": "Heartland",
+   "mls_id": "a0M1500000UR3QB",
+   "fips": 20107
+ },
+ {
+   "mls_name": "Heartland",
+   "mls_id": "a0M1500000UR3QB",
+   "fips": 20121
+ },
+ {
+   "mls_name": "Heartland",
+   "mls_id": "a0M1500000UR3QB",
+   "fips": 20209
+ },
+ {
+   "mls_name": "Heartland",
+   "mls_id": "a0M1500000UR3QB",
+   "fips": 29003
+ },
+ {
+   "mls_name": "Heartland",
+   "mls_id": "a0M1500000UR3QB",
+   "fips": 29005
+ },
+ {
+   "mls_name": "Heartland",
+   "mls_id": "a0M1500000UR3QB",
+   "fips": 29021
+ },
+ {
+   "mls_name": "Heartland",
+   "mls_id": "a0M1500000UR3QB",
+   "fips": 29025
+ },
+ {
+   "mls_name": "Heartland",
+   "mls_id": "a0M1500000UR3QB",
+   "fips": 29037
+ },
+ {
+   "mls_name": "Heartland",
+   "mls_id": "a0M1500000UR3QB",
+   "fips": 29047
+ },
+ {
+   "mls_name": "Heartland",
+   "mls_id": "a0M1500000UR3QB",
+   "fips": 29049
+ },
+ {
+   "mls_name": "Heartland",
+   "mls_id": "a0M1500000UR3QB",
+   "fips": 29061
+ },
+ {
+   "mls_name": "Heartland",
+   "mls_id": "a0M1500000UR3QB",
+   "fips": 29165
+ },
+ {
+   "mls_name": "Heartland",
+   "mls_id": "a0M1500000UR3QB",
+   "fips": 29227
+ },
+ {
+   "mls_name": "Heartland",
+   "mls_id": "a0M1500000UR3QB",
+   "fips": 29177
+ },
+ {
+   "mls_name": "Heartland",
+   "mls_id": "a0M1500000UR3QB",
+   "fips": 29147
+ },
+ {
+   "mls_name": "Heartland",
+   "mls_id": "a0M1500000UR3QB",
+   "fips": 29075
+ },
+ {
+   "mls_name": "Heartland",
+   "mls_id": "a0M1500000UR3QB",
+   "fips": 29081
+ },
+ {
+   "mls_name": "Heartland",
+   "mls_id": "a0M1500000UR3QB",
+   "fips": 29107
+ },
+ {
+   "mls_name": "Heartland",
+   "mls_id": "a0M1500000UR3QB",
+   "fips": 29087
+ },
+ {
+   "mls_name": "Heartland",
+   "mls_id": "a0M1500000UR3QB",
+   "fips": 29095
+ },
+ {
+   "mls_name": "IMLS",
+   "mls_id": "a0M1500000UR3QI",
+   "fips": 16001
+ },
+ {
+   "mls_name": "IMLS",
+   "mls_id": "a0M1500000UR3QI",
+   "fips": 16003
+ },
+ {
+   "mls_name": "IMLS",
+   "mls_id": "a0M1500000UR3QI",
+   "fips": 16015
+ },
+ {
+   "mls_name": "IMLS",
+   "mls_id": "a0M1500000UR3QI",
+   "fips": 16025
+ },
+ {
+   "mls_name": "IMLS",
+   "mls_id": "a0M1500000UR3QI",
+   "fips": 16027
+ },
+ {
+   "mls_name": "IMLS",
+   "mls_id": "a0M1500000UR3QI",
+   "fips": 16039
+ },
+ {
+   "mls_name": "IMLS",
+   "mls_id": "a0M1500000UR3QI",
+   "fips": 16045
+ },
+ {
+   "mls_name": "IMLS",
+   "mls_id": "a0M1500000UR3QI",
+   "fips": 16047
+ },
+ {
+   "mls_name": "IMLS",
+   "mls_id": "a0M1500000UR3QI",
+   "fips": 16053
+ },
+ {
+   "mls_name": "IMLS",
+   "mls_id": "a0M1500000UR3QI",
+   "fips": 16057
+ },
+ {
+   "mls_name": "IMLS",
+   "mls_id": "a0M1500000UR3QI",
+   "fips": 16063
+ },
+ {
+   "mls_name": "IMLS",
+   "mls_id": "a0M1500000UR3QI",
+   "fips": 16069
+ },
+ {
+   "mls_name": "IMLS",
+   "mls_id": "a0M1500000UR3QI",
+   "fips": 16075
+ },
+ {
+   "mls_name": "IMLS",
+   "mls_id": "a0M1500000UR3QI",
+   "fips": 16083
+ },
+ {
+   "mls_name": "IMLS",
+   "mls_id": "a0M1500000UR3QI",
+   "fips": 16085
+ },
+ {
+   "mls_name": "IMLS",
+   "mls_id": "a0M1500000UR3QI",
+   "fips": 16087
+ },
+ {
+   "mls_name": "IMLS",
+   "mls_id": "a0M1500000UR3QI",
+   "fips": 41045
+ },
+ {
+   "mls_name": "IMLS",
+   "mls_id": "a0M1500000UR3QI",
+   "fips": 53003
+ },
+ {
+   "mls_name": "IRES",
+   "mls_id": "a0M1500000UR3QK",
+   "fips": 8013
+ },
+ {
+   "mls_name": "IRES",
+   "mls_id": "a0M1500000UR3QK",
+   "fips": 8069
+ },
+ {
+   "mls_name": "IRES",
+   "mls_id": "a0M1500000UR3QK",
+   "fips": 8075
+ },
+ {
+   "mls_name": "IRES",
+   "mls_id": "a0M1500000UR3QK",
+   "fips": 8087
+ },
+ {
+   "mls_name": "IRES",
+   "mls_id": "a0M1500000UR3QK",
+   "fips": 8123
+ },
+ {
+   "mls_name": "MAAR-MLS",
+   "mls_id": "a0M1500000UR3Qh",
+   "fips": 5035
+ },
+ {
+   "mls_name": "MAAR-MLS",
+   "mls_id": "a0M1500000UR3Qh",
+   "fips": 47047
+ },
+ {
+   "mls_name": "MAAR-MLS",
+   "mls_id": "a0M1500000UR3Qh",
+   "fips": 47069
+ },
+ {
+   "mls_name": "MAAR-MLS",
+   "mls_id": "a0M1500000UR3Qh",
+   "fips": 47071
+ },
+ {
+   "mls_name": "MAAR-MLS",
+   "mls_id": "a0M1500000UR3Qh",
+   "fips": 47097
+ },
+ {
+   "mls_name": "MAAR-MLS",
+   "mls_id": "a0M1500000UR3Qh",
+   "fips": 47109
+ },
+ {
+   "mls_name": "MAAR-MLS",
+   "mls_id": "a0M1500000UR3Qh",
+   "fips": 47157
+ },
+ {
+   "mls_name": "MAAR-MLS",
+   "mls_id": "a0M1500000UR3Qh",
+   "fips": 47167
+ },
+ {
+   "mls_name": "MARIS",
+   "mls_id": "a0M1500000UR3Qj",
+   "fips": 17005
+ },
+ {
+   "mls_name": "MARIS",
+   "mls_id": "a0M1500000UR3Qj",
+   "fips": 17021
+ },
+ {
+   "mls_name": "MARIS",
+   "mls_id": "a0M1500000UR3Qj",
+   "fips": 17027
+ },
+ {
+   "mls_name": "MARIS",
+   "mls_id": "a0M1500000UR3Qj",
+   "fips": 17051
+ },
+ {
+   "mls_name": "MARIS",
+   "mls_id": "a0M1500000UR3Qj",
+   "fips": 17061
+ },
+ {
+   "mls_name": "MARIS",
+   "mls_id": "a0M1500000UR3Qj",
+   "fips": 17083
+ },
+ {
+   "mls_name": "MARIS",
+   "mls_id": "a0M1500000UR3Qj",
+   "fips": 17117
+ },
+ {
+   "mls_name": "MARIS",
+   "mls_id": "a0M1500000UR3Qj",
+   "fips": 17119
+ },
+ {
+   "mls_name": "MARIS",
+   "mls_id": "a0M1500000UR3Qj",
+   "fips": 17121
+ },
+ {
+   "mls_name": "MARIS",
+   "mls_id": "a0M1500000UR3Qj",
+   "fips": 17133
+ },
+ {
+   "mls_name": "MARIS",
+   "mls_id": "a0M1500000UR3Qj",
+   "fips": 17135
+ },
+ {
+   "mls_name": "MARIS",
+   "mls_id": "a0M1500000UR3Qj",
+   "fips": 17157
+ },
+ {
+   "mls_name": "MARIS",
+   "mls_id": "a0M1500000UR3Qj",
+   "fips": 17189
+ },
+ {
+   "mls_name": "MARIS",
+   "mls_id": "a0M1500000UR3Qj",
+   "fips": 29007
+ },
+ {
+   "mls_name": "MARIS",
+   "mls_id": "a0M1500000UR3Qj",
+   "fips": 29017
+ },
+ {
+   "mls_name": "MARIS",
+   "mls_id": "a0M1500000UR3Qj",
+   "fips": 29051
+ },
+ {
+   "mls_name": "MARIS",
+   "mls_id": "a0M1500000UR3Qj",
+   "fips": 29065
+ },
+ {
+   "mls_name": "MARIS",
+   "mls_id": "a0M1500000UR3Qj",
+   "fips": 29073
+ },
+ {
+   "mls_name": "MARIS",
+   "mls_id": "a0M1500000UR3Qj",
+   "fips": 29071
+ },
+ {
+   "mls_name": "MARIS",
+   "mls_id": "a0M1500000UR3Qj",
+   "fips": 29055
+ },
+ {
+   "mls_name": "MARIS",
+   "mls_id": "a0M1500000UR3Qj",
+   "fips": 29035
+ },
+ {
+   "mls_name": "MARIS",
+   "mls_id": "a0M1500000UR3Qj",
+   "fips": 29093
+ },
+ {
+   "mls_name": "MARIS",
+   "mls_id": "a0M1500000UR3Qj",
+   "fips": 29019
+ },
+ {
+   "mls_name": "MARIS",
+   "mls_id": "a0M1500000UR3Qj",
+   "fips": 29023
+ },
+ {
+   "mls_name": "MARIS",
+   "mls_id": "a0M1500000UR3Qj",
+   "fips": 29099
+ },
+ {
+   "mls_name": "MARIS",
+   "mls_id": "a0M1500000UR3Qj",
+   "fips": 29105
+ },
+ {
+   "mls_name": "MARIS",
+   "mls_id": "a0M1500000UR3Qj",
+   "fips": 29031
+ },
+ {
+   "mls_name": "MARIS",
+   "mls_id": "a0M1500000UR3Qj",
+   "fips": 29113
+ },
+ {
+   "mls_name": "MARIS",
+   "mls_id": "a0M1500000UR3Qj",
+   "fips": 29027
+ },
+ {
+   "mls_name": "MARIS",
+   "mls_id": "a0M1500000UR3Qj",
+   "fips": 29137
+ },
+ {
+   "mls_name": "MARIS",
+   "mls_id": "a0M1500000UR3Qj",
+   "fips": 29135
+ },
+ {
+   "mls_name": "MARIS",
+   "mls_id": "a0M1500000UR3Qj",
+   "fips": 29203
+ },
+ {
+   "mls_name": "MARIS",
+   "mls_id": "a0M1500000UR3Qj",
+   "fips": 29229
+ },
+ {
+   "mls_name": "MARIS",
+   "mls_id": "a0M1500000UR3Qj",
+   "fips": 29225
+ },
+ {
+   "mls_name": "MARIS",
+   "mls_id": "a0M1500000UR3Qj",
+   "fips": 29223
+ },
+ {
+   "mls_name": "MARIS",
+   "mls_id": "a0M1500000UR3Qj",
+   "fips": 29221
+ },
+ {
+   "mls_name": "MARIS",
+   "mls_id": "a0M1500000UR3Qj",
+   "fips": 29219
+ },
+ {
+   "mls_name": "MARIS",
+   "mls_id": "a0M1500000UR3Qj",
+   "fips": 29215
+ },
+ {
+   "mls_name": "MARIS",
+   "mls_id": "a0M1500000UR3Qj",
+   "fips": 29207
+ },
+ {
+   "mls_name": "MARIS",
+   "mls_id": "a0M1500000UR3Qj",
+   "fips": 29201
+ },
+ {
+   "mls_name": "MARIS",
+   "mls_id": "a0M1500000UR3Qj",
+   "fips": 29186
+ },
+ {
+   "mls_name": "MARIS",
+   "mls_id": "a0M1500000UR3Qj",
+   "fips": 29169
+ },
+ {
+   "mls_name": "MARIS",
+   "mls_id": "a0M1500000UR3Qj",
+   "fips": 29181
+ },
+ {
+   "mls_name": "MARIS",
+   "mls_id": "a0M1500000UR3Qj",
+   "fips": 29179
+ },
+ {
+   "mls_name": "MARIS",
+   "mls_id": "a0M1500000UR3Qj",
+   "fips": 29163
+ },
+ {
+   "mls_name": "MARIS",
+   "mls_id": "a0M1500000UR3Qj",
+   "fips": 29161
+ },
+ {
+   "mls_name": "MARIS",
+   "mls_id": "a0M1500000UR3Qj",
+   "fips": 29157
+ },
+ {
+   "mls_name": "MARIS",
+   "mls_id": "a0M1500000UR3Qj",
+   "fips": 29151
+ },
+ {
+   "mls_name": "MARIS",
+   "mls_id": "a0M1500000UR3Qj",
+   "fips": 29131
+ },
+ {
+   "mls_name": "MARIS",
+   "mls_id": "a0M1500000UR3Qj",
+   "fips": 29125
+ },
+ {
+   "mls_name": "MARIS",
+   "mls_id": "a0M1500000UR3Qj",
+   "fips": 29139
+ },
+ {
+   "mls_name": "MARIS",
+   "mls_id": "a0M1500000UR3Qj",
+   "fips": 29127
+ },
+ {
+   "mls_name": "MARIS",
+   "mls_id": "a0M1500000UR3Qj",
+   "fips": 29029
+ },
+ {
+   "mls_name": "MetroList",
+   "mls_id": "a0M1500000UR3Qn",
+   "fips": 6005
+ },
+ {
+   "mls_name": "MetroList",
+   "mls_id": "a0M1500000UR3Qn",
+   "fips": 6017
+ },
+ {
+   "mls_name": "MetroList",
+   "mls_id": "a0M1500000UR3Qn",
+   "fips": 6057
+ },
+ {
+   "mls_name": "MetroList",
+   "mls_id": "a0M1500000UR3Qn",
+   "fips": 6061
+ },
+ {
+   "mls_name": "MetroList",
+   "mls_id": "a0M1500000UR3Qn",
+   "fips": 6067
+ },
+ {
+   "mls_name": "MetroList",
+   "mls_id": "a0M1500000UR3Qn",
+   "fips": 6077
+ },
+ {
+   "mls_name": "MetroList",
+   "mls_id": "a0M1500000UR3Qn",
+   "fips": 6099
+ },
+ {
+   "mls_name": "MetroList",
+   "mls_id": "a0M1500000UR3Qn",
+   "fips": 6113
+ },
+ {
+   "mls_name": "MIBOR",
+   "mls_id": "a0M1500000UR3Qr",
+   "fips": 18011
+ },
+ {
+   "mls_name": "MIBOR",
+   "mls_id": "a0M1500000UR3Qr",
+   "fips": 18013
+ },
+ {
+   "mls_name": "MIBOR",
+   "mls_id": "a0M1500000UR3Qr",
+   "fips": 18031
+ },
+ {
+   "mls_name": "MIBOR",
+   "mls_id": "a0M1500000UR3Qr",
+   "fips": 18057
+ },
+ {
+   "mls_name": "MIBOR",
+   "mls_id": "a0M1500000UR3Qr",
+   "fips": 18059
+ },
+ {
+   "mls_name": "MIBOR",
+   "mls_id": "a0M1500000UR3Qr",
+   "fips": 18063
+ },
+ {
+   "mls_name": "MIBOR",
+   "mls_id": "a0M1500000UR3Qr",
+   "fips": 18081
+ },
+ {
+   "mls_name": "MIBOR",
+   "mls_id": "a0M1500000UR3Qr",
+   "fips": 18095
+ },
+ {
+   "mls_name": "MIBOR",
+   "mls_id": "a0M1500000UR3Qr",
+   "fips": 18097
+ },
+ {
+   "mls_name": "MIBOR",
+   "mls_id": "a0M1500000UR3Qr",
+   "fips": 18107
+ },
+ {
+   "mls_name": "MIBOR",
+   "mls_id": "a0M1500000UR3Qr",
+   "fips": 18109
+ },
+ {
+   "mls_name": "MIBOR",
+   "mls_id": "a0M1500000UR3Qr",
+   "fips": 18145
+ },
+ {
+   "mls_name": "MLSLI/OneKey",
+   "mls_id": "a0M1500000UR3Qw",
+   "fips": 36005
+ },
+ {
+   "mls_name": "MLSLI/OneKey",
+   "mls_id": "a0M1500000UR3Qw",
+   "fips": 36027
+ },
+ {
+   "mls_name": "MLSLI/OneKey",
+   "mls_id": "a0M1500000UR3Qw",
+   "fips": 36047
+ },
+ {
+   "mls_name": "MLSLI/OneKey",
+   "mls_id": "a0M1500000UR3Qw",
+   "fips": 36059
+ },
+ {
+   "mls_name": "MLSLI/OneKey",
+   "mls_id": "a0M1500000UR3Qw",
+   "fips": 36061
+ },
+ {
+   "mls_name": "MLSLI/OneKey",
+   "mls_id": "a0M1500000UR3Qw",
+   "fips": 36071
+ },
+ {
+   "mls_name": "MLSLI/OneKey",
+   "mls_id": "a0M1500000UR3Qw",
+   "fips": 36079
+ },
+ {
+   "mls_name": "MLSLI/OneKey",
+   "mls_id": "a0M1500000UR3Qw",
+   "fips": 36081
+ },
+ {
+   "mls_name": "MLSLI/OneKey",
+   "mls_id": "a0M1500000UR3Qw",
+   "fips": 36085
+ },
+ {
+   "mls_name": "MLSLI/OneKey",
+   "mls_id": "a0M1500000UR3Qw",
+   "fips": 36087
+ },
+ {
+   "mls_name": "MLSLI/OneKey",
+   "mls_id": "a0M1500000UR3Qw",
+   "fips": 36103
+ },
+ {
+   "mls_name": "MLSLI/OneKey",
+   "mls_id": "a0M1500000UR3Qw",
+   "fips": 36105
+ },
+ {
+   "mls_name": "MLSLI/OneKey",
+   "mls_id": "a0M1500000UR3Qw",
+   "fips": 36111
+ },
+ {
+   "mls_name": "MLSLI/OneKey",
+   "mls_id": "a0M1500000UR3Qw",
+   "fips": 36119
+ },
+ {
+   "mls_name": "MLSListings",
+   "mls_id": "a0M1500000UR3Qx",
+   "fips": 6053
+ },
+ {
+   "mls_name": "MLSListings",
+   "mls_id": "a0M1500000UR3Qx",
+   "fips": 6069
+ },
+ {
+   "mls_name": "MLSListings",
+   "mls_id": "a0M1500000UR3Qx",
+   "fips": 6081
+ },
+ {
+   "mls_name": "MLSListings",
+   "mls_id": "a0M1500000UR3Qx",
+   "fips": 6085
+ },
+ {
+   "mls_name": "MLSListings",
+   "mls_id": "a0M1500000UR3Qx",
+   "fips": 6087
+ },
+ {
+   "mls_name": "MLSOK",
+   "mls_id": "a0M1500000UR3RW",
+   "fips": 40011
+ },
+ {
+   "mls_name": "MLSOK",
+   "mls_id": "a0M1500000UR3RW",
+   "fips": 40015
+ },
+ {
+   "mls_name": "MLSOK",
+   "mls_id": "a0M1500000UR3RW",
+   "fips": 40017
+ },
+ {
+   "mls_name": "MLSOK",
+   "mls_id": "a0M1500000UR3RW",
+   "fips": 40027
+ },
+ {
+   "mls_name": "MLSOK",
+   "mls_id": "a0M1500000UR3RW",
+   "fips": 40051
+ },
+ {
+   "mls_name": "MLSOK",
+   "mls_id": "a0M1500000UR3RW",
+   "fips": 40073
+ },
+ {
+   "mls_name": "MLSOK",
+   "mls_id": "a0M1500000UR3RW",
+   "fips": 40081
+ },
+ {
+   "mls_name": "MLSOK",
+   "mls_id": "a0M1500000UR3RW",
+   "fips": 40083
+ },
+ {
+   "mls_name": "MLSOK",
+   "mls_id": "a0M1500000UR3RW",
+   "fips": 40087
+ },
+ {
+   "mls_name": "MLSOK",
+   "mls_id": "a0M1500000UR3RW",
+   "fips": 40109
+ },
+ {
+   "mls_name": "MLSOK",
+   "mls_id": "a0M1500000UR3RW",
+   "fips": 40125
+ },
+ {
+   "mls_name": "MLSOK",
+   "mls_id": "a0M1500000UR3RW",
+   "fips": 40133
+ },
+ {
+   "mls_name": "MLS-PIN",
+   "mls_id": "a0M1500000UR3Qu",
+   "fips": 25025
+ },
+ {
+   "mls_name": "MLSSAZ",
+   "mls_id": "a0M1500000UR3SE",
+   "fips": 4003
+ },
+ {
+   "mls_name": "MLSSAZ",
+   "mls_id": "a0M1500000UR3SE",
+   "fips": 4019
+ },
+ {
+   "mls_name": "MLSSAZ",
+   "mls_id": "a0M1500000UR3SE",
+   "fips": 4023
+ },
+ {
+   "mls_name": "MRED",
+   "mls_id": "a0M1500000UR3R3",
+   "fips": 17007
+ },
+ {
+   "mls_name": "MRED",
+   "mls_id": "a0M1500000UR3R4",
+   "fips": 17011
+ },
+ {
+   "mls_name": "MRED",
+   "mls_id": "a0M1500000UR3R5",
+   "fips": 17019
+ },
+ {
+   "mls_name": "MRED",
+   "mls_id": "a0M1500000UR3R6",
+   "fips": 17031
+ },
+ {
+   "mls_name": "MRED",
+   "mls_id": "a0M1500000UR3R7",
+   "fips": 17053
+ },
+ {
+   "mls_name": "MRED",
+   "mls_id": "a0M1500000UR3R8",
+   "fips": 17063
+ },
+ {
+   "mls_name": "MRED",
+   "mls_id": "a0M1500000UR3R9",
+   "fips": 17075
+ },
+ {
+   "mls_name": "MRED",
+   "mls_id": "a0M1500000UR3R10",
+   "fips": 17089
+ },
+ {
+   "mls_name": "MRED",
+   "mls_id": "a0M1500000UR3R11",
+   "fips": 17091
+ },
+ {
+   "mls_name": "MRED",
+   "mls_id": "a0M1500000UR3R12",
+   "fips": 17093
+ },
+ {
+   "mls_name": "MRED",
+   "mls_id": "a0M1500000UR3R13",
+   "fips": 17097
+ },
+ {
+   "mls_name": "MRED",
+   "mls_id": "a0M1500000UR3R14",
+   "fips": 17103
+ },
+ {
+   "mls_name": "MRED",
+   "mls_id": "a0M1500000UR3R15",
+   "fips": 17111
+ },
+ {
+   "mls_name": "MRED",
+   "mls_id": "a0M1500000UR3R16",
+   "fips": 17147
+ },
+ {
+   "mls_name": "MRED",
+   "mls_id": "a0M1500000UR3R17",
+   "fips": 17155
+ },
+ {
+   "mls_name": "MRED",
+   "mls_id": "a0M1500000UR3R18",
+   "fips": 17195
+ },
+ {
+   "mls_name": "MRED",
+   "mls_id": "a0M1500000UR3R19",
+   "fips": 17197
+ },
+ {
+   "mls_name": "MTRMLS",
+   "mls_id": "a0M1500000UR3R7",
+   "fips": 47003
+ },
+ {
+   "mls_name": "MTRMLS",
+   "mls_id": "a0M1500000UR3R8",
+   "fips": 47015
+ },
+ {
+   "mls_name": "MTRMLS",
+   "mls_id": "a0M1500000UR3R9",
+   "fips": 47021
+ },
+ {
+   "mls_name": "MTRMLS",
+   "mls_id": "a0M1500000UR3R10",
+   "fips": 47031
+ },
+ {
+   "mls_name": "MTRMLS",
+   "mls_id": "a0M1500000UR3R11",
+   "fips": 47035
+ },
+ {
+   "mls_name": "MTRMLS",
+   "mls_id": "a0M1500000UR3R12",
+   "fips": 47037
+ },
+ {
+   "mls_name": "MTRMLS",
+   "mls_id": "a0M1500000UR3R13",
+   "fips": 47043
+ },
+ {
+   "mls_name": "MTRMLS",
+   "mls_id": "a0M1500000UR3R14",
+   "fips": 47051
+ },
+ {
+   "mls_name": "MTRMLS",
+   "mls_id": "a0M1500000UR3R15",
+   "fips": 47055
+ },
+ {
+   "mls_name": "MTRMLS",
+   "mls_id": "a0M1500000UR3R16",
+   "fips": 47061
+ },
+ {
+   "mls_name": "MTRMLS",
+   "mls_id": "a0M1500000UR3R17",
+   "fips": 47081
+ },
+ {
+   "mls_name": "MTRMLS",
+   "mls_id": "a0M1500000UR3R18",
+   "fips": 47099
+ },
+ {
+   "mls_name": "MTRMLS",
+   "mls_id": "a0M1500000UR3R19",
+   "fips": 47101
+ },
+ {
+   "mls_name": "MTRMLS",
+   "mls_id": "a0M1500000UR3R20",
+   "fips": 47103
+ },
+ {
+   "mls_name": "MTRMLS",
+   "mls_id": "a0M1500000UR3R21",
+   "fips": 47117
+ },
+ {
+   "mls_name": "MTRMLS",
+   "mls_id": "a0M1500000UR3R22",
+   "fips": 47165
+ },
+ {
+   "mls_name": "MTRMLS",
+   "mls_id": "a0M1500000UR3R23",
+   "fips": 47177
+ },
+ {
+   "mls_name": "MTRMLS",
+   "mls_id": "a0M1500000UR3R24",
+   "fips": 47185
+ },
+ {
+   "mls_name": "MTRMLS",
+   "mls_id": "a0M1500000UR3R25",
+   "fips": 47181
+ },
+ {
+   "mls_name": "MTRMLS",
+   "mls_id": "a0M1500000UR3R26",
+   "fips": 47175
+ },
+ {
+   "mls_name": "MTRMLS",
+   "mls_id": "a0M1500000UR3R27",
+   "fips": 47149
+ },
+ {
+   "mls_name": "MTRMLS",
+   "mls_id": "a0M1500000UR3R28",
+   "fips": 47187
+ },
+ {
+   "mls_name": "MTRMLS",
+   "mls_id": "a0M1500000UR3R29",
+   "fips": 47119
+ },
+ {
+   "mls_name": "MTRMLS",
+   "mls_id": "a0M1500000UR3R30",
+   "fips": 47125
+ },
+ {
+   "mls_name": "MTRMLS",
+   "mls_id": "a0M1500000UR3R31",
+   "fips": 47189
+ },
+ {
+   "mls_name": "MTRMLS",
+   "mls_id": "a0M1500000UR3R32",
+   "fips": 47147
+ },
+ {
+   "mls_name": "MTRMLS",
+   "mls_id": "a0M1500000UR3R33",
+   "fips": 47127
+ },
+ {
+   "mls_name": "MTRMLS",
+   "mls_id": "a0M1500000UR3R34",
+   "fips": 47141
+ },
+ {
+   "mls_name": "NEFMLS",
+   "mls_id": "a0M1500000UR3RC",
+   "fips": 12003
+ },
+ {
+   "mls_name": "NEFMLS",
+   "mls_id": "a0M1500000UR3RC",
+   "fips": 12019
+ },
+ {
+   "mls_name": "NEFMLS",
+   "mls_id": "a0M1500000UR3RC",
+   "fips": 12031
+ },
+ {
+   "mls_name": "NEFMLS",
+   "mls_id": "a0M1500000UR3RC",
+   "fips": 12107
+ },
+ {
+   "mls_name": "NEREN",
+   "mls_id": "a0M1500000UR3RJ",
+   "fips": 23001
+ },
+ {
+   "mls_name": "NEREN",
+   "mls_id": "a0M1500000UR3RJ",
+   "fips": 23003
+ },
+ {
+   "mls_name": "NEREN",
+   "mls_id": "a0M1500000UR3RJ",
+   "fips": 23005
+ },
+ {
+   "mls_name": "NEREN",
+   "mls_id": "a0M1500000UR3RJ",
+   "fips": 23007
+ },
+ {
+   "mls_name": "NEREN",
+   "mls_id": "a0M1500000UR3RJ",
+   "fips": 23009
+ },
+ {
+   "mls_name": "NEREN",
+   "mls_id": "a0M1500000UR3RJ",
+   "fips": 23011
+ },
+ {
+   "mls_name": "NEREN",
+   "mls_id": "a0M1500000UR3RJ",
+   "fips": 23013
+ },
+ {
+   "mls_name": "NEREN",
+   "mls_id": "a0M1500000UR3RJ",
+   "fips": 23015
+ },
+ {
+   "mls_name": "NEREN",
+   "mls_id": "a0M1500000UR3RJ",
+   "fips": 23017
+ },
+ {
+   "mls_name": "NEREN",
+   "mls_id": "a0M1500000UR3RJ",
+   "fips": 23019
+ },
+ {
+   "mls_name": "NEREN",
+   "mls_id": "a0M1500000UR3RJ",
+   "fips": 23021
+ },
+ {
+   "mls_name": "NEREN",
+   "mls_id": "a0M1500000UR3RJ",
+   "fips": 23023
+ },
+ {
+   "mls_name": "NEREN",
+   "mls_id": "a0M1500000UR3RJ",
+   "fips": 23025
+ },
+ {
+   "mls_name": "NEREN",
+   "mls_id": "a0M1500000UR3RJ",
+   "fips": 23027
+ },
+ {
+   "mls_name": "NEREN",
+   "mls_id": "a0M1500000UR3RJ",
+   "fips": 23029
+ },
+ {
+   "mls_name": "NEREN",
+   "mls_id": "a0M1500000UR3RJ",
+   "fips": 33011
+ },
+ {
+   "mls_name": "NEREN",
+   "mls_id": "a0M1500000UR3RJ",
+   "fips": 33015
+ },
+ {
+   "mls_name": "NEREN",
+   "mls_id": "a0M1500000UR3RJ",
+   "fips": 33019
+ },
+ {
+   "mls_name": "NEREN",
+   "mls_id": "a0M1500000UR3RJ",
+   "fips": 33017
+ },
+ {
+   "mls_name": "NEREN",
+   "mls_id": "a0M1500000UR3RJ",
+   "fips": 33013
+ },
+ {
+   "mls_name": "NEREN",
+   "mls_id": "a0M1500000UR3RJ",
+   "fips": 33009
+ },
+ {
+   "mls_name": "NEREN",
+   "mls_id": "a0M1500000UR3RJ",
+   "fips": 50001
+ },
+ {
+   "mls_name": "NEREN",
+   "mls_id": "a0M1500000UR3RJ",
+   "fips": 23031
+ },
+ {
+   "mls_name": "NEREN",
+   "mls_id": "a0M1500000UR3RJ",
+   "fips": 33001
+ },
+ {
+   "mls_name": "NEREN",
+   "mls_id": "a0M1500000UR3RJ",
+   "fips": 50003
+ },
+ {
+   "mls_name": "NEREN",
+   "mls_id": "a0M1500000UR3RJ",
+   "fips": 50005
+ },
+ {
+   "mls_name": "NEREN",
+   "mls_id": "a0M1500000UR3RJ",
+   "fips": 33007
+ },
+ {
+   "mls_name": "NEREN",
+   "mls_id": "a0M1500000UR3RJ",
+   "fips": 50007
+ },
+ {
+   "mls_name": "NEREN",
+   "mls_id": "a0M1500000UR3RJ",
+   "fips": 33003
+ },
+ {
+   "mls_name": "NEREN",
+   "mls_id": "a0M1500000UR3RJ",
+   "fips": 50017
+ },
+ {
+   "mls_name": "NEREN",
+   "mls_id": "a0M1500000UR3RJ",
+   "fips": 50015
+ },
+ {
+   "mls_name": "NEREN",
+   "mls_id": "a0M1500000UR3RJ",
+   "fips": 50027
+ },
+ {
+   "mls_name": "NEREN",
+   "mls_id": "a0M1500000UR3RJ",
+   "fips": 50025
+ },
+ {
+   "mls_name": "NEREN",
+   "mls_id": "a0M1500000UR3RJ",
+   "fips": 50023
+ },
+ {
+   "mls_name": "NEREN",
+   "mls_id": "a0M1500000UR3RJ",
+   "fips": 50021
+ },
+ {
+   "mls_name": "NEREN",
+   "mls_id": "a0M1500000UR3RJ",
+   "fips": 50013
+ },
+ {
+   "mls_name": "NEREN",
+   "mls_id": "a0M1500000UR3RJ",
+   "fips": 50009
+ },
+ {
+   "mls_name": "NEREN",
+   "mls_id": "a0M1500000UR3RJ",
+   "fips": 50019
+ },
+ {
+   "mls_name": "NEREN",
+   "mls_id": "a0M1500000UR3RJ",
+   "fips": 50011
+ },
+ {
+   "mls_name": "NEREN",
+   "mls_id": "a0M1500000UR3RJ",
+   "fips": 33005
+ },
+ {
+   "mls_name": "NKMLS",
+   "mls_id": "a0M1500000UR3RG",
+   "fips": 21015
+ },
+ {
+   "mls_name": "NKMLS",
+   "mls_id": "a0M1500000UR3RG",
+   "fips": 21023
+ },
+ {
+   "mls_name": "NKMLS",
+   "mls_id": "a0M1500000UR3RG",
+   "fips": 21037
+ },
+ {
+   "mls_name": "NKMLS",
+   "mls_id": "a0M1500000UR3RG",
+   "fips": 21069
+ },
+ {
+   "mls_name": "NKMLS",
+   "mls_id": "a0M1500000UR3RG",
+   "fips": 21077
+ },
+ {
+   "mls_name": "NKMLS",
+   "mls_id": "a0M1500000UR3RG",
+   "fips": 21081
+ },
+ {
+   "mls_name": "NKMLS",
+   "mls_id": "a0M1500000UR3RG",
+   "fips": 21117
+ },
+ {
+   "mls_name": "NKMLS",
+   "mls_id": "a0M1500000UR3RG",
+   "fips": 21135
+ },
+ {
+   "mls_name": "NKMLS",
+   "mls_id": "a0M1500000UR3RG",
+   "fips": 21161
+ },
+ {
+   "mls_name": "NKMLS",
+   "mls_id": "a0M1500000UR3RG",
+   "fips": 21187
+ },
+ {
+   "mls_name": "NKMLS",
+   "mls_id": "a0M1500000UR3RG",
+   "fips": 21191
+ },
+ {
+   "mls_name": "NKMLS",
+   "mls_id": "a0M1500000UR3RG",
+   "fips": 21201
+ },
+ {
+   "mls_name": "NNRMLS",
+   "mls_id": "a0M1500000UR3RK",
+   "fips": 32001
+ },
+ {
+   "mls_name": "NNRMLS",
+   "mls_id": "a0M1500000UR3RK",
+   "fips": 32005
+ },
+ {
+   "mls_name": "NNRMLS",
+   "mls_id": "a0M1500000UR3RK",
+   "fips": 32019
+ },
+ {
+   "mls_name": "NNRMLS",
+   "mls_id": "a0M1500000UR3RK",
+   "fips": 32029
+ },
+ {
+   "mls_name": "NNRMLS",
+   "mls_id": "a0M1500000UR3RK",
+   "fips": 32031
+ },
+ {
+   "mls_name": "NorthstarMLS",
+   "mls_id": "a0M1500000UR3RN",
+   "fips": 27001
+ },
+ {
+   "mls_name": "NorthstarMLS",
+   "mls_id": "a0M1500000UR3RN",
+   "fips": 27003
+ },
+ {
+   "mls_name": "NorthstarMLS",
+   "mls_id": "a0M1500000UR3RN",
+   "fips": 27011
+ },
+ {
+   "mls_name": "NorthstarMLS",
+   "mls_id": "a0M1500000UR3RN",
+   "fips": 27015
+ },
+ {
+   "mls_name": "NorthstarMLS",
+   "mls_id": "a0M1500000UR3RN",
+   "fips": 27019
+ },
+ {
+   "mls_name": "NorthstarMLS",
+   "mls_id": "a0M1500000UR3RN",
+   "fips": 27021
+ },
+ {
+   "mls_name": "NorthstarMLS",
+   "mls_id": "a0M1500000UR3RN",
+   "fips": 27023
+ },
+ {
+   "mls_name": "NorthstarMLS",
+   "mls_id": "a0M1500000UR3RN",
+   "fips": 27025
+ },
+ {
+   "mls_name": "NorthstarMLS",
+   "mls_id": "a0M1500000UR3RN",
+   "fips": 27033
+ },
+ {
+   "mls_name": "NorthstarMLS",
+   "mls_id": "a0M1500000UR3RN",
+   "fips": 27035
+ },
+ {
+   "mls_name": "NorthstarMLS",
+   "mls_id": "a0M1500000UR3RN",
+   "fips": 27037
+ },
+ {
+   "mls_name": "NorthstarMLS",
+   "mls_id": "a0M1500000UR3RN",
+   "fips": 27039
+ },
+ {
+   "mls_name": "NorthstarMLS",
+   "mls_id": "a0M1500000UR3RN",
+   "fips": 27041
+ },
+ {
+   "mls_name": "NorthstarMLS",
+   "mls_id": "a0M1500000UR3RN",
+   "fips": 27045
+ },
+ {
+   "mls_name": "NorthstarMLS",
+   "mls_id": "a0M1500000UR3RN",
+   "fips": 27047
+ },
+ {
+   "mls_name": "NorthstarMLS",
+   "mls_id": "a0M1500000UR3RN",
+   "fips": 27063
+ },
+ {
+   "mls_name": "NorthstarMLS",
+   "mls_id": "a0M1500000UR3RN",
+   "fips": 27067
+ },
+ {
+   "mls_name": "NorthstarMLS",
+   "mls_id": "a0M1500000UR3RN",
+   "fips": 27081
+ },
+ {
+   "mls_name": "NorthstarMLS",
+   "mls_id": "a0M1500000UR3RN",
+   "fips": 27073
+ },
+ {
+   "mls_name": "NorthstarMLS",
+   "mls_id": "a0M1500000UR3RN",
+   "fips": 27065
+ },
+ {
+   "mls_name": "NorthstarMLS",
+   "mls_id": "a0M1500000UR3RN",
+   "fips": 27061
+ },
+ {
+   "mls_name": "NorthstarMLS",
+   "mls_id": "a0M1500000UR3RN",
+   "fips": 27083
+ },
+ {
+   "mls_name": "NorthstarMLS",
+   "mls_id": "a0M1500000UR3RN",
+   "fips": 27049
+ },
+ {
+   "mls_name": "NorthstarMLS",
+   "mls_id": "a0M1500000UR3RN",
+   "fips": 27053
+ },
+ {
+   "mls_name": "NorthstarMLS",
+   "mls_id": "a0M1500000UR3RN",
+   "fips": 27091
+ },
+ {
+   "mls_name": "NorthstarMLS",
+   "mls_id": "a0M1500000UR3RN",
+   "fips": 27093
+ },
+ {
+   "mls_name": "NorthstarMLS",
+   "mls_id": "a0M1500000UR3RN",
+   "fips": 27059
+ },
+ {
+   "mls_name": "NorthstarMLS",
+   "mls_id": "a0M1500000UR3RN",
+   "fips": 27095
+ },
+ {
+   "mls_name": "NorthstarMLS",
+   "mls_id": "a0M1500000UR3RN",
+   "fips": 27055
+ },
+ {
+   "mls_name": "NorthstarMLS",
+   "mls_id": "a0M1500000UR3RN",
+   "fips": 27109
+ },
+ {
+   "mls_name": "NorthstarMLS",
+   "mls_id": "a0M1500000UR3RN",
+   "fips": 27105
+ },
+ {
+   "mls_name": "NorthstarMLS",
+   "mls_id": "a0M1500000UR3RN",
+   "fips": 27165
+ },
+ {
+   "mls_name": "NorthstarMLS",
+   "mls_id": "a0M1500000UR3RN",
+   "fips": 27145
+ },
+ {
+   "mls_name": "NorthstarMLS",
+   "mls_id": "a0M1500000UR3RN",
+   "fips": 27163
+ },
+ {
+   "mls_name": "NorthstarMLS",
+   "mls_id": "a0M1500000UR3RN",
+   "fips": 27161
+ },
+ {
+   "mls_name": "NorthstarMLS",
+   "mls_id": "a0M1500000UR3RN",
+   "fips": 27159
+ },
+ {
+   "mls_name": "NorthstarMLS",
+   "mls_id": "a0M1500000UR3RN",
+   "fips": 27173
+ },
+ {
+   "mls_name": "NorthstarMLS",
+   "mls_id": "a0M1500000UR3RN",
+   "fips": 27157
+ },
+ {
+   "mls_name": "NorthstarMLS",
+   "mls_id": "a0M1500000UR3RN",
+   "fips": 27171
+ },
+ {
+   "mls_name": "NorthstarMLS",
+   "mls_id": "a0M1500000UR3RN",
+   "fips": 27169
+ },
+ {
+   "mls_name": "NorthstarMLS",
+   "mls_id": "a0M1500000UR3RN",
+   "fips": 27153
+ },
+ {
+   "mls_name": "NorthstarMLS",
+   "mls_id": "a0M1500000UR3RN",
+   "fips": 27151
+ },
+ {
+   "mls_name": "NorthstarMLS",
+   "mls_id": "a0M1500000UR3RN",
+   "fips": 27149
+ },
+ {
+   "mls_name": "NorthstarMLS",
+   "mls_id": "a0M1500000UR3RN",
+   "fips": 27147
+ },
+ {
+   "mls_name": "NorthstarMLS",
+   "mls_id": "a0M1500000UR3RN",
+   "fips": 27141
+ },
+ {
+   "mls_name": "NorthstarMLS",
+   "mls_id": "a0M1500000UR3RN",
+   "fips": 27139
+ },
+ {
+   "mls_name": "NorthstarMLS",
+   "mls_id": "a0M1500000UR3RN",
+   "fips": 27129
+ },
+ {
+   "mls_name": "NorthstarMLS",
+   "mls_id": "a0M1500000UR3RN",
+   "fips": 27133
+ },
+ {
+   "mls_name": "NorthstarMLS",
+   "mls_id": "a0M1500000UR3RN",
+   "fips": 27131
+ },
+ {
+   "mls_name": "NorthstarMLS",
+   "mls_id": "a0M1500000UR3RN",
+   "fips": 27127
+ },
+ {
+   "mls_name": "NorthstarMLS",
+   "mls_id": "a0M1500000UR3RN",
+   "fips": 27123
+ },
+ {
+   "mls_name": "NorthstarMLS",
+   "mls_id": "a0M1500000UR3RN",
+   "fips": 27121
+ },
+ {
+   "mls_name": "NorthstarMLS",
+   "mls_id": "a0M1500000UR3RN",
+   "fips": 27117
+ },
+ {
+   "mls_name": "NorthstarMLS",
+   "mls_id": "a0M1500000UR3RN",
+   "fips": 27101
+ },
+ {
+   "mls_name": "NorthstarMLS",
+   "mls_id": "a0M1500000UR3RN",
+   "fips": 27097
+ },
+ {
+   "mls_name": "NorthstarMLS",
+   "mls_id": "a0M1500000UR3RN",
+   "fips": 27115
+ },
+ {
+   "mls_name": "NorthstarMLS",
+   "mls_id": "a0M1500000UR3RN",
+   "fips": 27099
+ },
+ {
+   "mls_name": "NorthstarMLS",
+   "mls_id": "a0M1500000UR3RN",
+   "fips": 27057
+ },
+ {
+   "mls_name": "NTREIS",
+   "mls_id": "a0M1500000UR3RP",
+   "fips": 48001
+ },
+ {
+   "mls_name": "NTREIS",
+   "mls_id": "a0M1500000UR3RP",
+   "fips": 48009
+ },
+ {
+   "mls_name": "NTREIS",
+   "mls_id": "a0M1500000UR3RP",
+   "fips": 48035
+ },
+ {
+   "mls_name": "NTREIS",
+   "mls_id": "a0M1500000UR3RP",
+   "fips": 48049
+ },
+ {
+   "mls_name": "NTREIS",
+   "mls_id": "a0M1500000UR3RP",
+   "fips": 48059
+ },
+ {
+   "mls_name": "NTREIS",
+   "mls_id": "a0M1500000UR3RP",
+   "fips": 48077
+ },
+ {
+   "mls_name": "NTREIS",
+   "mls_id": "a0M1500000UR3RP",
+   "fips": 48083
+ },
+ {
+   "mls_name": "NTREIS",
+   "mls_id": "a0M1500000UR3RP",
+   "fips": 48085
+ },
+ {
+   "mls_name": "NTREIS",
+   "mls_id": "a0M1500000UR3RP",
+   "fips": 48093
+ },
+ {
+   "mls_name": "NTREIS",
+   "mls_id": "a0M1500000UR3RP",
+   "fips": 48097
+ },
+ {
+   "mls_name": "NTREIS",
+   "mls_id": "a0M1500000UR3RP",
+   "fips": 48113
+ },
+ {
+   "mls_name": "NTREIS",
+   "mls_id": "a0M1500000UR3RP",
+   "fips": 48119
+ },
+ {
+   "mls_name": "NTREIS",
+   "mls_id": "a0M1500000UR3RP",
+   "fips": 48121
+ },
+ {
+   "mls_name": "NTREIS",
+   "mls_id": "a0M1500000UR3RP",
+   "fips": 48133
+ },
+ {
+   "mls_name": "NTREIS",
+   "mls_id": "a0M1500000UR3RP",
+   "fips": 48139
+ },
+ {
+   "mls_name": "NTREIS",
+   "mls_id": "a0M1500000UR3RP",
+   "fips": 48193
+ },
+ {
+   "mls_name": "NTREIS",
+   "mls_id": "a0M1500000UR3RP",
+   "fips": 48213
+ },
+ {
+   "mls_name": "NTREIS",
+   "mls_id": "a0M1500000UR3RP",
+   "fips": 48221
+ },
+ {
+   "mls_name": "NTREIS",
+   "mls_id": "a0M1500000UR3RP",
+   "fips": 48217
+ },
+ {
+   "mls_name": "NTREIS",
+   "mls_id": "a0M1500000UR3RP",
+   "fips": 48207
+ },
+ {
+   "mls_name": "NTREIS",
+   "mls_id": "a0M1500000UR3RP",
+   "fips": 48181
+ },
+ {
+   "mls_name": "NTREIS",
+   "mls_id": "a0M1500000UR3RP",
+   "fips": 48223
+ },
+ {
+   "mls_name": "NTREIS",
+   "mls_id": "a0M1500000UR3RP",
+   "fips": 48143
+ },
+ {
+   "mls_name": "NTREIS",
+   "mls_id": "a0M1500000UR3RP",
+   "fips": 48147
+ },
+ {
+   "mls_name": "NTREIS",
+   "mls_id": "a0M1500000UR3RP",
+   "fips": 48231
+ },
+ {
+   "mls_name": "NTREIS",
+   "mls_id": "a0M1500000UR3RP",
+   "fips": 48237
+ },
+ {
+   "mls_name": "NTREIS",
+   "mls_id": "a0M1500000UR3RP",
+   "fips": 48161
+ },
+ {
+   "mls_name": "NTREIS",
+   "mls_id": "a0M1500000UR3RP",
+   "fips": 48251
+ },
+ {
+   "mls_name": "NTREIS",
+   "mls_id": "a0M1500000UR3RP",
+   "fips": 48151
+ },
+ {
+   "mls_name": "NTREIS",
+   "mls_id": "a0M1500000UR3RP",
+   "fips": 48309
+ },
+ {
+   "mls_name": "NTREIS",
+   "mls_id": "a0M1500000UR3RP",
+   "fips": 48293
+ },
+ {
+   "mls_name": "NTREIS",
+   "mls_id": "a0M1500000UR3RP",
+   "fips": 48499
+ },
+ {
+   "mls_name": "NTREIS",
+   "mls_id": "a0M1500000UR3RP",
+   "fips": 48423
+ },
+ {
+   "mls_name": "NTREIS",
+   "mls_id": "a0M1500000UR3RP",
+   "fips": 48497
+ },
+ {
+   "mls_name": "NTREIS",
+   "mls_id": "a0M1500000UR3RP",
+   "fips": 48485
+ },
+ {
+   "mls_name": "NTREIS",
+   "mls_id": "a0M1500000UR3RP",
+   "fips": 48467
+ },
+ {
+   "mls_name": "NTREIS",
+   "mls_id": "a0M1500000UR3RP",
+   "fips": 48447
+ },
+ {
+   "mls_name": "NTREIS",
+   "mls_id": "a0M1500000UR3RP",
+   "fips": 48503
+ },
+ {
+   "mls_name": "NTREIS",
+   "mls_id": "a0M1500000UR3RP",
+   "fips": 48439
+ },
+ {
+   "mls_name": "NTREIS",
+   "mls_id": "a0M1500000UR3RP",
+   "fips": 48433
+ },
+ {
+   "mls_name": "NTREIS",
+   "mls_id": "a0M1500000UR3RP",
+   "fips": 48429
+ },
+ {
+   "mls_name": "NTREIS",
+   "mls_id": "a0M1500000UR3RP",
+   "fips": 48425
+ },
+ {
+   "mls_name": "NTREIS",
+   "mls_id": "a0M1500000UR3RP",
+   "fips": 48417
+ },
+ {
+   "mls_name": "NTREIS",
+   "mls_id": "a0M1500000UR3RP",
+   "fips": 48415
+ },
+ {
+   "mls_name": "NTREIS",
+   "mls_id": "a0M1500000UR3RP",
+   "fips": 48379
+ },
+ {
+   "mls_name": "NTREIS",
+   "mls_id": "a0M1500000UR3RP",
+   "fips": 48399
+ },
+ {
+   "mls_name": "NTREIS",
+   "mls_id": "a0M1500000UR3RP",
+   "fips": 48397
+ },
+ {
+   "mls_name": "NTREIS",
+   "mls_id": "a0M1500000UR3RP",
+   "fips": 48367
+ },
+ {
+   "mls_name": "NTREIS",
+   "mls_id": "a0M1500000UR3RP",
+   "fips": 48363
+ },
+ {
+   "mls_name": "NTREIS",
+   "mls_id": "a0M1500000UR3RP",
+   "fips": 48353
+ },
+ {
+   "mls_name": "NTREIS",
+   "mls_id": "a0M1500000UR3RP",
+   "fips": 48349
+ },
+ {
+   "mls_name": "NTREIS",
+   "mls_id": "a0M1500000UR3RP",
+   "fips": 48277
+ },
+ {
+   "mls_name": "NTREIS",
+   "mls_id": "a0M1500000UR3RP",
+   "fips": 48253
+ },
+ {
+   "mls_name": "NTREIS",
+   "mls_id": "a0M1500000UR3RP",
+   "fips": 48337
+ },
+ {
+   "mls_name": "NTREIS",
+   "mls_id": "a0M1500000UR3RP",
+   "fips": 48257
+ },
+ {
+   "mls_name": "NTREIS",
+   "mls_id": "a0M1500000UR3RP",
+   "fips": 48159
+ },
+ {
+   "mls_name": "NWLAR MLS",
+   "mls_id": "a0M1500000dm0OF",
+   "fips": 22013
+ },
+ {
+   "mls_name": "NWLAR MLS",
+   "mls_id": "a0M1500000dm0OF",
+   "fips": 22015
+ },
+ {
+   "mls_name": "NWLAR MLS",
+   "mls_id": "a0M1500000dm0OF",
+   "fips": 22017
+ },
+ {
+   "mls_name": "NWLAR MLS",
+   "mls_id": "a0M1500000dm0OF",
+   "fips": 22027
+ },
+ {
+   "mls_name": "NWLAR MLS",
+   "mls_id": "a0M1500000dm0OF",
+   "fips": 22031
+ },
+ {
+   "mls_name": "NWLAR MLS",
+   "mls_id": "a0M1500000dm0OF",
+   "fips": 22081
+ },
+ {
+   "mls_name": "NWLAR MLS",
+   "mls_id": "a0M1500000dm0OF",
+   "fips": 22119
+ },
+ {
+   "mls_name": "NWMLS",
+   "mls_id": "a0M1500000UR3RO",
+   "fips": 53001
+ },
+ {
+   "mls_name": "NWMLS",
+   "mls_id": "a0M1500000UR3RO",
+   "fips": 53007
+ },
+ {
+   "mls_name": "NWMLS",
+   "mls_id": "a0M1500000UR3RO",
+   "fips": 53009
+ },
+ {
+   "mls_name": "NWMLS",
+   "mls_id": "a0M1500000UR3RO",
+   "fips": 53011
+ },
+ {
+   "mls_name": "NWMLS",
+   "mls_id": "a0M1500000UR3RO",
+   "fips": 53015
+ },
+ {
+   "mls_name": "NWMLS",
+   "mls_id": "a0M1500000UR3RO",
+   "fips": 53017
+ },
+ {
+   "mls_name": "NWMLS",
+   "mls_id": "a0M1500000UR3RO",
+   "fips": 53019
+ },
+ {
+   "mls_name": "NWMLS",
+   "mls_id": "a0M1500000UR3RO",
+   "fips": 53025
+ },
+ {
+   "mls_name": "NWMLS",
+   "mls_id": "a0M1500000UR3RO",
+   "fips": 53027
+ },
+ {
+   "mls_name": "NWMLS",
+   "mls_id": "a0M1500000UR3RO",
+   "fips": 53029
+ },
+ {
+   "mls_name": "NWMLS",
+   "mls_id": "a0M1500000UR3RO",
+   "fips": 53031
+ },
+ {
+   "mls_name": "NWMLS",
+   "mls_id": "a0M1500000UR3RO",
+   "fips": 53033
+ },
+ {
+   "mls_name": "NWMLS",
+   "mls_id": "a0M1500000UR3RO",
+   "fips": 53035
+ },
+ {
+   "mls_name": "NWMLS",
+   "mls_id": "a0M1500000UR3RO",
+   "fips": 53037
+ },
+ {
+   "mls_name": "NWMLS",
+   "mls_id": "a0M1500000UR3RO",
+   "fips": 53041
+ },
+ {
+   "mls_name": "NWMLS",
+   "mls_id": "a0M1500000UR3RO",
+   "fips": 53061
+ },
+ {
+   "mls_name": "NWMLS",
+   "mls_id": "a0M1500000UR3RO",
+   "fips": 53069
+ },
+ {
+   "mls_name": "NWMLS",
+   "mls_id": "a0M1500000UR3RO",
+   "fips": 53073
+ },
+ {
+   "mls_name": "NWMLS",
+   "mls_id": "a0M1500000UR3RO",
+   "fips": 53067
+ },
+ {
+   "mls_name": "NWMLS",
+   "mls_id": "a0M1500000UR3RO",
+   "fips": 53057
+ },
+ {
+   "mls_name": "NWMLS",
+   "mls_id": "a0M1500000UR3RO",
+   "fips": 53045
+ },
+ {
+   "mls_name": "NWMLS",
+   "mls_id": "a0M1500000UR3RO",
+   "fips": 53047
+ },
+ {
+   "mls_name": "NWMLS",
+   "mls_id": "a0M1500000UR3RO",
+   "fips": 53055
+ },
+ {
+   "mls_name": "NWMLS",
+   "mls_id": "a0M1500000UR3RO",
+   "fips": 53049
+ },
+ {
+   "mls_name": "NWMLS",
+   "mls_id": "a0M1500000UR3RO",
+   "fips": 53053
+ },
+ {
+   "mls_name": "RAA MLS",
+   "mls_id": "a0M1500000Udtav",
+   "fips": 22001
+ },
+ {
+   "mls_name": "RAA MLS",
+   "mls_id": "a0M1500000Udtav",
+   "fips": 22045
+ },
+ {
+   "mls_name": "RAA MLS",
+   "mls_id": "a0M1500000Udtav",
+   "fips": 22055
+ },
+ {
+   "mls_name": "RAA MLS",
+   "mls_id": "a0M1500000Udtav",
+   "fips": 22113
+ },
+ {
+   "mls_name": "REcolorado",
+   "mls_id": "a0M1500000UR3Rm",
+   "fips": 8001
+ },
+ {
+   "mls_name": "REcolorado",
+   "mls_id": "a0M1500000UR3Rm",
+   "fips": 8003
+ },
+ {
+   "mls_name": "REcolorado",
+   "mls_id": "a0M1500000UR3Rm",
+   "fips": 8005
+ },
+ {
+   "mls_name": "REcolorado",
+   "mls_id": "a0M1500000UR3Rm",
+   "fips": 8015
+ },
+ {
+   "mls_name": "REcolorado",
+   "mls_id": "a0M1500000UR3Rm",
+   "fips": 8019
+ },
+ {
+   "mls_name": "REcolorado",
+   "mls_id": "a0M1500000UR3Rm",
+   "fips": 8021
+ },
+ {
+   "mls_name": "REcolorado",
+   "mls_id": "a0M1500000UR3Rm",
+   "fips": 8023
+ },
+ {
+   "mls_name": "REcolorado",
+   "mls_id": "a0M1500000UR3Rm",
+   "fips": 8031
+ },
+ {
+   "mls_name": "REcolorado",
+   "mls_id": "a0M1500000UR3Rm",
+   "fips": 8035
+ },
+ {
+   "mls_name": "REcolorado",
+   "mls_id": "a0M1500000UR3Rm",
+   "fips": 8039
+ },
+ {
+   "mls_name": "REcolorado",
+   "mls_id": "a0M1500000UR3Rm",
+   "fips": 8047
+ },
+ {
+   "mls_name": "REcolorado",
+   "mls_id": "a0M1500000UR3Rm",
+   "fips": 8049
+ },
+ {
+   "mls_name": "REcolorado",
+   "mls_id": "a0M1500000UR3Rm",
+   "fips": 8057
+ },
+ {
+   "mls_name": "REcolorado",
+   "mls_id": "a0M1500000UR3Rm",
+   "fips": 8059
+ },
+ {
+   "mls_name": "REcolorado",
+   "mls_id": "a0M1500000UR3Rm",
+   "fips": 8079
+ },
+ {
+   "mls_name": "REcolorado",
+   "mls_id": "a0M1500000UR3Rm",
+   "fips": 8093
+ },
+ {
+   "mls_name": "REcolorado",
+   "mls_id": "a0M1500000UR3Rm",
+   "fips": 8105
+ },
+ {
+   "mls_name": "REcolorado",
+   "mls_id": "a0M1500000UR3Rm",
+   "fips": 8117
+ },
+ {
+   "mls_name": "REcolorado",
+   "mls_id": "a0M1500000UR3Rm",
+   "fips": 8107
+ },
+ {
+   "mls_name": "REcolorado",
+   "mls_id": "a0M1500000UR3Rm",
+   "fips": 8109
+ },
+ {
+   "mls_name": "RMLS",
+   "mls_id": "a0M1500000UR3Rq",
+   "fips": 41001
+ },
+ {
+   "mls_name": "RMLS",
+   "mls_id": "a0M1500000UR3Rq",
+   "fips": 41005
+ },
+ {
+   "mls_name": "RMLS",
+   "mls_id": "a0M1500000UR3Rq",
+   "fips": 41009
+ },
+ {
+   "mls_name": "RMLS",
+   "mls_id": "a0M1500000UR3Rq",
+   "fips": 41011
+ },
+ {
+   "mls_name": "RMLS",
+   "mls_id": "a0M1500000UR3Rq",
+   "fips": 41015
+ },
+ {
+   "mls_name": "RMLS",
+   "mls_id": "a0M1500000UR3Rq",
+   "fips": 41019
+ },
+ {
+   "mls_name": "RMLS",
+   "mls_id": "a0M1500000UR3Rq",
+   "fips": 41021
+ },
+ {
+   "mls_name": "RMLS",
+   "mls_id": "a0M1500000UR3Rq",
+   "fips": 41023
+ },
+ {
+   "mls_name": "RMLS",
+   "mls_id": "a0M1500000UR3Rq",
+   "fips": 41027
+ },
+ {
+   "mls_name": "RMLS",
+   "mls_id": "a0M1500000UR3Rq",
+   "fips": 41033
+ },
+ {
+   "mls_name": "RMLS",
+   "mls_id": "a0M1500000UR3Rq",
+   "fips": 41039
+ },
+ {
+   "mls_name": "RMLS",
+   "mls_id": "a0M1500000UR3Rq",
+   "fips": 41049
+ },
+ {
+   "mls_name": "RMLS",
+   "mls_id": "a0M1500000UR3Rq",
+   "fips": 41051
+ },
+ {
+   "mls_name": "RMLS",
+   "mls_id": "a0M1500000UR3Rq",
+   "fips": 41055
+ },
+ {
+   "mls_name": "RMLS",
+   "mls_id": "a0M1500000UR3Rq",
+   "fips": 41059
+ },
+ {
+   "mls_name": "RMLS",
+   "mls_id": "a0M1500000UR3Rq",
+   "fips": 53039
+ },
+ {
+   "mls_name": "RMLS",
+   "mls_id": "a0M1500000UR3Rq",
+   "fips": 53059
+ },
+ {
+   "mls_name": "RMLS",
+   "mls_id": "a0M1500000UR3Rq",
+   "fips": 41071
+ },
+ {
+   "mls_name": "RMLS",
+   "mls_id": "a0M1500000UR3Rq",
+   "fips": 41061
+ },
+ {
+   "mls_name": "RMLS",
+   "mls_id": "a0M1500000UR3Rq",
+   "fips": 41063
+ },
+ {
+   "mls_name": "RMLS",
+   "mls_id": "a0M1500000UR3Rq",
+   "fips": 41069
+ },
+ {
+   "mls_name": "RMLS",
+   "mls_id": "a0M1500000UR3Rq",
+   "fips": 41065
+ },
+ {
+   "mls_name": "RMLS",
+   "mls_id": "a0M1500000UR3Rq",
+   "fips": 41067
+ },
+ {
+   "mls_name": "SABOR",
+   "mls_id": "a0M1500000UR3Rt",
+   "fips": 48013
+ },
+ {
+   "mls_name": "SABOR",
+   "mls_id": "a0M1500000UR3Rt",
+   "fips": 48029
+ },
+ {
+   "mls_name": "SABOR",
+   "mls_id": "a0M1500000UR3Rt",
+   "fips": 48163
+ },
+ {
+   "mls_name": "SABOR",
+   "mls_id": "a0M1500000UR3Rt",
+   "fips": 48255
+ },
+ {
+   "mls_name": "SABOR",
+   "mls_id": "a0M1500000UR3Rt",
+   "fips": 48259
+ },
+ {
+   "mls_name": "SABOR",
+   "mls_id": "a0M1500000UR3Rt",
+   "fips": 48283
+ },
+ {
+   "mls_name": "SABOR",
+   "mls_id": "a0M1500000UR3Rt",
+   "fips": 48311
+ },
+ {
+   "mls_name": "SABOR",
+   "mls_id": "a0M1500000UR3Rt",
+   "fips": 48325
+ },
+ {
+   "mls_name": "SABOR",
+   "mls_id": "a0M1500000UR3Rt",
+   "fips": 48495
+ },
+ {
+   "mls_name": "SDMLS",
+   "mls_id": "a0M1500000UR38z",
+   "fips": 6073
+ },
+ {
+   "mls_name": "SEFMLS",
+   "mls_id": "a0M1500000UR3Ry",
+   "fips": 12011
+ },
+ {
+   "mls_name": "SEFMLS",
+   "mls_id": "a0M1500000UR3Ry",
+   "fips": 12085
+ },
+ {
+   "mls_name": "SEFMLS",
+   "mls_id": "a0M1500000UR3Ry",
+   "fips": 12086
+ },
+ {
+   "mls_name": "SEFMLS",
+   "mls_id": "a0M1500000UR3Ry",
+   "fips": 12099
+ },
+ {
+   "mls_name": "SFARMLS",
+   "mls_id": "a0M1500000UR3S0",
+   "fips": 6075
+ },
+ {
+   "mls_name": "SmartMLS",
+   "mls_id": "a0M1500000Udy76",
+   "fips": 9001
+ },
+ {
+   "mls_name": "SmartMLS",
+   "mls_id": "a0M1500000Udy76",
+   "fips": 9003
+ },
+ {
+   "mls_name": "SmartMLS",
+   "mls_id": "a0M1500000Udy76",
+   "fips": 9005
+ },
+ {
+   "mls_name": "SmartMLS",
+   "mls_id": "a0M1500000Udy76",
+   "fips": 9007
+ },
+ {
+   "mls_name": "SmartMLS",
+   "mls_id": "a0M1500000Udy76",
+   "fips": 9009
+ },
+ {
+   "mls_name": "SmartMLS",
+   "mls_id": "a0M1500000Udy76",
+   "fips": 9011
+ },
+ {
+   "mls_name": "SmartMLS",
+   "mls_id": "a0M1500000Udy76",
+   "fips": 9013
+ },
+ {
+   "mls_name": "SmartMLS",
+   "mls_id": "a0M1500000Udy76",
+   "fips": 9015
+ },
+ {
+   "mls_name": "Snake River MLS",
+   "mls_id": "a0M1500000UR3S5",
+   "fips": 16005
+ },
+ {
+   "mls_name": "Snake River MLS",
+   "mls_id": "a0M1500000UR3S5",
+   "fips": 16007
+ },
+ {
+   "mls_name": "Snake River MLS",
+   "mls_id": "a0M1500000UR3S5",
+   "fips": 16011
+ },
+ {
+   "mls_name": "Snake River MLS",
+   "mls_id": "a0M1500000UR3S5",
+   "fips": 16019
+ },
+ {
+   "mls_name": "Snake River MLS",
+   "mls_id": "a0M1500000UR3S5",
+   "fips": 16023
+ },
+ {
+   "mls_name": "Snake River MLS",
+   "mls_id": "a0M1500000UR3S5",
+   "fips": 16029
+ },
+ {
+   "mls_name": "Snake River MLS",
+   "mls_id": "a0M1500000UR3S5",
+   "fips": 16031
+ },
+ {
+   "mls_name": "Snake River MLS",
+   "mls_id": "a0M1500000UR3S5",
+   "fips": 16033
+ },
+ {
+   "mls_name": "Snake River MLS",
+   "mls_id": "a0M1500000UR3S5",
+   "fips": 16037
+ },
+ {
+   "mls_name": "Snake River MLS",
+   "mls_id": "a0M1500000UR3S5",
+   "fips": 16041
+ },
+ {
+   "mls_name": "Snake River MLS",
+   "mls_id": "a0M1500000UR3S5",
+   "fips": 16043
+ },
+ {
+   "mls_name": "Snake River MLS",
+   "mls_id": "a0M1500000UR3S5",
+   "fips": 16051
+ },
+ {
+   "mls_name": "Snake River MLS",
+   "mls_id": "a0M1500000UR3S5",
+   "fips": 16059
+ },
+ {
+   "mls_name": "Snake River MLS",
+   "mls_id": "a0M1500000UR3S5",
+   "fips": 16065
+ },
+ {
+   "mls_name": "Snake River MLS",
+   "mls_id": "a0M1500000UR3S5",
+   "fips": 16071
+ },
+ {
+   "mls_name": "Snake River MLS",
+   "mls_id": "a0M1500000UR3S5",
+   "fips": 16081
+ },
+ {
+   "mls_name": "Statewide MLS",
+   "mls_id": "a0M1500000UR3Ro",
+   "fips": 44001
+ },
+ {
+   "mls_name": "Statewide MLS",
+   "mls_id": "a0M1500000UR3Ro",
+   "fips": 44003
+ },
+ {
+   "mls_name": "Statewide MLS",
+   "mls_id": "a0M1500000UR3Ro",
+   "fips": 44005
+ },
+ {
+   "mls_name": "Statewide MLS",
+   "mls_id": "a0M1500000UR3Ro",
+   "fips": 44007
+ },
+ {
+   "mls_name": "Statewide MLS",
+   "mls_id": "a0M1500000UR3Ro",
+   "fips": 44009
+ },
+ {
+   "mls_name": "Stellar",
+   "mls_id": "a0M1500000UR3Qo",
+   "fips": 12015
+ },
+ {
+   "mls_name": "Stellar",
+   "mls_id": "a0M1500000UR3Qo",
+   "fips": 12057
+ },
+ {
+   "mls_name": "Stellar",
+   "mls_id": "a0M1500000UR3Qo",
+   "fips": 12069
+ },
+ {
+   "mls_name": "Stellar",
+   "mls_id": "a0M1500000UR3Qo",
+   "fips": 12081
+ },
+ {
+   "mls_name": "Stellar",
+   "mls_id": "a0M1500000UR3Qo",
+   "fips": 12095
+ },
+ {
+   "mls_name": "Stellar",
+   "mls_id": "a0M1500000UR3Qo",
+   "fips": 12097
+ },
+ {
+   "mls_name": "Stellar",
+   "mls_id": "a0M1500000UR3Qo",
+   "fips": 12101
+ },
+ {
+   "mls_name": "Stellar",
+   "mls_id": "a0M1500000UR3Qo",
+   "fips": 12105
+ },
+ {
+   "mls_name": "Stellar",
+   "mls_id": "a0M1500000UR3Qo",
+   "fips": 12115
+ },
+ {
+   "mls_name": "Stellar",
+   "mls_id": "a0M1500000UR3Qo",
+   "fips": 12117
+ },
+ {
+   "mls_name": "Stellar",
+   "mls_id": "a0M1500000UR3Qo",
+   "fips": 12119
+ },
+ {
+   "mls_name": "Stellar",
+   "mls_id": "a0M1500000UR3Qo",
+   "fips": 12127
+ },
+ {
+   "mls_name": "TriadMLS",
+   "mls_id": "a0M1500000Ue0zn",
+   "fips": 37001
+ },
+ {
+   "mls_name": "TriadMLS",
+   "mls_id": "a0M1500000Ue0zn",
+   "fips": 37033
+ },
+ {
+   "mls_name": "TriadMLS",
+   "mls_id": "a0M1500000Ue0zn",
+   "fips": 37057
+ },
+ {
+   "mls_name": "TriadMLS",
+   "mls_id": "a0M1500000Ue0zn",
+   "fips": 37059
+ },
+ {
+   "mls_name": "TriadMLS",
+   "mls_id": "a0M1500000Ue0zn",
+   "fips": 37067
+ },
+ {
+   "mls_name": "TriadMLS",
+   "mls_id": "a0M1500000Ue0zn",
+   "fips": 37081
+ },
+ {
+   "mls_name": "TriadMLS",
+   "mls_id": "a0M1500000Ue0zn",
+   "fips": 37151
+ },
+ {
+   "mls_name": "TriadMLS",
+   "mls_id": "a0M1500000Ue0zn",
+   "fips": 37157
+ },
+ {
+   "mls_name": "TriadMLS",
+   "mls_id": "a0M1500000Ue0zn",
+   "fips": 37169
+ },
+ {
+   "mls_name": "TriadMLS",
+   "mls_id": "a0M1500000Ue0zn",
+   "fips": 37171
+ },
+ {
+   "mls_name": "TriadMLS",
+   "mls_id": "a0M1500000Ue0zn",
+   "fips": 37193
+ },
+ {
+   "mls_name": "TriadMLS",
+   "mls_id": "a0M1500000Ue0zn",
+   "fips": 37197
+ },
+ {
+   "mls_name": "ValleyMLS",
+   "mls_id": "a0M1500000UR3R9",
+   "fips": 1019
+ },
+ {
+   "mls_name": "ValleyMLS",
+   "mls_id": "a0M1500000UR3R9",
+   "fips": 1043
+ },
+ {
+   "mls_name": "ValleyMLS",
+   "mls_id": "a0M1500000UR3R9",
+   "fips": 1055
+ },
+ {
+   "mls_name": "ValleyMLS",
+   "mls_id": "a0M1500000UR3R9",
+   "fips": 1071
+ },
+ {
+   "mls_name": "ValleyMLS",
+   "mls_id": "a0M1500000UR3R9",
+   "fips": 1079
+ },
+ {
+   "mls_name": "ValleyMLS",
+   "mls_id": "a0M1500000UR3R9",
+   "fips": 1083
+ },
+ {
+   "mls_name": "ValleyMLS",
+   "mls_id": "a0M1500000UR3R9",
+   "fips": 1089
+ },
+ {
+   "mls_name": "ValleyMLS",
+   "mls_id": "a0M1500000UR3R9",
+   "fips": 1095
+ },
+ {
+   "mls_name": "ValleyMLS",
+   "mls_id": "a0M1500000UR3R9",
+   "fips": 1103
+ },
+ {
+   "mls_name": "Ventura",
+   "mls_id": "a0M1500000UR3SP",
+   "fips": 6111
+ },
+ {
+   "mls_name": "WARDEX",
+   "mls_id": "a0M1500000UR3SS",
+   "fips": 4012
+ },
+ {
+   "mls_name": "WARDEX",
+   "mls_id": "a0M1500000UR3SS",
+   "fips": 4015
+ },
+ {
+   "mls_name": "WFRMLS",
+   "mls_id": "a0M1500000UR394",
+   "fips": 49001
+ },
+ {
+   "mls_name": "WFRMLS",
+   "mls_id": "a0M1500000UR394",
+   "fips": 49003
+ },
+ {
+   "mls_name": "WFRMLS",
+   "mls_id": "a0M1500000UR394",
+   "fips": 49005
+ },
+ {
+   "mls_name": "WFRMLS",
+   "mls_id": "a0M1500000UR394",
+   "fips": 49007
+ },
+ {
+   "mls_name": "WFRMLS",
+   "mls_id": "a0M1500000UR394",
+   "fips": 49009
+ },
+ {
+   "mls_name": "WFRMLS",
+   "mls_id": "a0M1500000UR394",
+   "fips": 49011
+ },
+ {
+   "mls_name": "WFRMLS",
+   "mls_id": "a0M1500000UR394",
+   "fips": 49013
+ },
+ {
+   "mls_name": "WFRMLS",
+   "mls_id": "a0M1500000UR394",
+   "fips": 49015
+ },
+ {
+   "mls_name": "WFRMLS",
+   "mls_id": "a0M1500000UR394",
+   "fips": 49017
+ },
+ {
+   "mls_name": "WFRMLS",
+   "mls_id": "a0M1500000UR394",
+   "fips": 49019
+ },
+ {
+   "mls_name": "WFRMLS",
+   "mls_id": "a0M1500000UR394",
+   "fips": 49021
+ },
+ {
+   "mls_name": "WFRMLS",
+   "mls_id": "a0M1500000UR394",
+   "fips": 49023
+ },
+ {
+   "mls_name": "WFRMLS",
+   "mls_id": "a0M1500000UR394",
+   "fips": 49025
+ },
+ {
+   "mls_name": "WFRMLS",
+   "mls_id": "a0M1500000UR394",
+   "fips": 49027
+ },
+ {
+   "mls_name": "WFRMLS",
+   "mls_id": "a0M1500000UR394",
+   "fips": 49029
+ },
+ {
+   "mls_name": "WFRMLS",
+   "mls_id": "a0M1500000UR394",
+   "fips": 49043
+ },
+ {
+   "mls_name": "WFRMLS",
+   "mls_id": "a0M1500000UR394",
+   "fips": 49047
+ },
+ {
+   "mls_name": "WFRMLS",
+   "mls_id": "a0M1500000UR394",
+   "fips": 49051
+ },
+ {
+   "mls_name": "WFRMLS",
+   "mls_id": "a0M1500000UR394",
+   "fips": 49049
+ },
+ {
+   "mls_name": "WFRMLS",
+   "mls_id": "a0M1500000UR394",
+   "fips": 49045
+ },
+ {
+   "mls_name": "WFRMLS",
+   "mls_id": "a0M1500000UR394",
+   "fips": 49041
+ },
+ {
+   "mls_name": "WFRMLS",
+   "mls_id": "a0M1500000UR394",
+   "fips": 49053
+ },
+ {
+   "mls_name": "WFRMLS",
+   "mls_id": "a0M1500000UR394",
+   "fips": 49031
+ },
+ {
+   "mls_name": "WFRMLS",
+   "mls_id": "a0M1500000UR394",
+   "fips": 49033
+ },
+ {
+   "mls_name": "WFRMLS",
+   "mls_id": "a0M1500000UR394",
+   "fips": 49055
+ },
+ {
+   "mls_name": "WFRMLS",
+   "mls_id": "a0M1500000UR394",
+   "fips": 49057
+ },
+ {
+   "mls_name": "WFRMLS",
+   "mls_id": "a0M1500000UR394",
+   "fips": 49039
+ },
+ {
+   "mls_name": "WFRMLS",
+   "mls_id": "a0M1500000UR394",
+   "fips": 49035
+ },
+ {
+   "mls_name": "WFRMLS",
+   "mls_id": "a0M1500000UR394",
+   "fips": 49037
+ },
+ {
+   "mls_name": "Yes-MLS",
+   "mls_id": "a0M1500000UR3RD",
+   "fips": 39007
+ },
+ {
+   "mls_name": "Yes-MLS",
+   "mls_id": "a0M1500000UR3RD",
+   "fips": 39013
+ },
+ {
+   "mls_name": "Yes-MLS",
+   "mls_id": "a0M1500000UR3RD",
+   "fips": 39019
+ },
+ {
+   "mls_name": "Yes-MLS",
+   "mls_id": "a0M1500000UR3RD",
+   "fips": 39029
+ },
+ {
+   "mls_name": "Yes-MLS",
+   "mls_id": "a0M1500000UR3RD",
+   "fips": 39031
+ },
+ {
+   "mls_name": "Yes-MLS",
+   "mls_id": "a0M1500000UR3RD",
+   "fips": 39035
+ },
+ {
+   "mls_name": "Yes-MLS",
+   "mls_id": "a0M1500000UR3RD",
+   "fips": 39055
+ },
+ {
+   "mls_name": "Yes-MLS",
+   "mls_id": "a0M1500000UR3RD",
+   "fips": 39059
+ },
+ {
+   "mls_name": "Yes-MLS",
+   "mls_id": "a0M1500000UR3RD",
+   "fips": 39067
+ },
+ {
+   "mls_name": "Yes-MLS",
+   "mls_id": "a0M1500000UR3RD",
+   "fips": 39075
+ },
+ {
+   "mls_name": "Yes-MLS",
+   "mls_id": "a0M1500000UR3RD",
+   "fips": 39081
+ },
+ {
+   "mls_name": "Yes-MLS",
+   "mls_id": "a0M1500000UR3RD",
+   "fips": 39085
+ },
+ {
+   "mls_name": "Yes-MLS",
+   "mls_id": "a0M1500000UR3RD",
+   "fips": 39093
+ },
+ {
+   "mls_name": "Yes-MLS",
+   "mls_id": "a0M1500000UR3RD",
+   "fips": 39099
+ },
+ {
+   "mls_name": "Yes-MLS",
+   "mls_id": "a0M1500000UR3RD",
+   "fips": 39103
+ },
+ {
+   "mls_name": "Yes-MLS",
+   "mls_id": "a0M1500000UR3RD",
+   "fips": 39151
+ },
+ {
+   "mls_name": "Yes-MLS",
+   "mls_id": "a0M1500000UR3RD",
+   "fips": 39155
+ },
+ {
+   "mls_name": "Yes-MLS",
+   "mls_id": "a0M1500000UR3RD",
+   "fips": 39167
+ },
+ {
+   "mls_name": "Yes-MLS",
+   "mls_id": "a0M1500000UR3RD",
+   "fips": 39157
+ },
+ {
+   "mls_name": "Yes-MLS",
+   "mls_id": "a0M1500000UR3RD",
+   "fips": 39153
+ },
+ {
+   "mls_name": "Yes-MLS",
+   "mls_id": "a0M1500000UR3RD",
+   "fips": 39133
+ },
+ {
+   "mls_name": "Yes-MLS",
+   "mls_id": "a0M1500000UR3RD",
+   "fips": 39169
+ },
+ {
+   "mls_name": "Yes-MLS",
+   "mls_id": "a0M1500000UR3RD",
+   "fips": 39111
+ },
+ {
+   "mls_name": "Yes-MLS",
+   "mls_id": "a0M1500000UR3RD",
+   "fips": 39115
+ },
+ {
+   "mls_name": "Yes-MLS",
+   "mls_id": "a0M1500000UR3RD",
+   "fips": 54009
+ },
+ {
+   "mls_name": "Yes-MLS",
+   "mls_id": "a0M1500000UR3RD",
+   "fips": 54029
+ },
+ {
+   "mls_name": "Yes-MLS",
+   "mls_id": "a0M1500000UR3RD",
+   "fips": 39127
+ },
+ {
+   "mls_name": "Yes-MLS",
+   "mls_id": "a0M1500000UR3RD",
+   "fips": 54035
+ },
+ {
+   "mls_name": "Yes-MLS",
+   "mls_id": "a0M1500000UR3RD",
+   "fips": 39119
+ },
+ {
+   "mls_name": "Yes-MLS",
+   "mls_id": "a0M1500000UR3RD",
+   "fips": 54105
+ },
+ {
+   "mls_name": "Yes-MLS",
+   "mls_id": "a0M1500000UR3RD",
+   "fips": 54085
+ },
+ {
+   "mls_name": "Yes-MLS",
+   "mls_id": "a0M1500000UR3RD",
+   "fips": 54073
+ },
+ {
+   "mls_name": "Yes-MLS",
+   "mls_id": "a0M1500000UR3RD",
+   "fips": 54051
+ },
+ {
+   "mls_name": "Yes-MLS",
+   "mls_id": "a0M1500000UR3RD",
+   "fips": 54107
+ },
+ {
+   "mls_name": "Yes-MLS",
+   "mls_id": "a0M1500000UR3RD",
+   "fips": 54069
+ },
+ {
+   "mls_name": "Yes-MLS",
+   "mls_id": "a0M1500000UR3RD",
+   "fips": 39121
+ }
+]
